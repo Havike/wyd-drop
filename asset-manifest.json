@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/wyd-drop/static/css/main.68c7544b.css",
-    "main.js": "/wyd-drop/static/js/main.c326713c.js",
+    "main.js": "/wyd-drop/static/js/main.d5cf493f.js",
     "index.html": "/wyd-drop/index.html",
     "main.68c7544b.css.map": "/wyd-drop/static/css/main.68c7544b.css.map",
-    "main.c326713c.js.map": "/wyd-drop/static/js/main.c326713c.js.map"
+    "main.d5cf493f.js.map": "/wyd-drop/static/js/main.d5cf493f.js.map"
   },
   "entrypoints": [
     "static/css/main.68c7544b.css",
-    "static/js/main.c326713c.js"
+    "static/js/main.d5cf493f.js"
   ]
 }
