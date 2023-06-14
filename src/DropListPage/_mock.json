@@ -1,1132 +1,21 @@
 [
     {
-        "id": 290,
-        "name": "@Caveira Lan",
-        "droplist": []
-    },
-    {
-        "id": 291,
-        "name": "@Caveira Neg",
-        "droplist": []
-    },
-    {
-        "id": 292,
-        "name": "@Troll Caos",
-        "droplist": []
-    },
-    {
-        "id": 293,
-        "name": "@Minotauro",
-        "droplist": []
-    },
-    {
-        "id": 294,
-        "name": "Aeon Tauron",
-        "droplist": [
-            {
-                "id": 1710,
-                "name": "Escudo de Runas"
-            },
-            {
-                "id": 825,
-                "name": "Arco Divino"
-            },
-            {
-                "id": 855,
-                "name": "Lanca do Triunfo"
-            },
-            {
-                "id": 911,
-                "name": "Solaris"
-            }
-        ]
-    },
-    {
-        "id": 295,
-        "name": "Adamant Taur",
-        "droplist": [
-            {
-                "id": 2378,
-                "name": "Fenrir das Sombras"
-            },
-            {
-                "id": 936,
-                "name": "Mjolnir"
-            },
-            {
-                "id": 902,
-                "name": "Cajado de Âmbar"
-            },
-            {
-                "id": 885,
-                "name": "Cruz Sagrada"
-            },
-            {
-                "id": 2443,
-                "name": "Coral"
-            },
-            {
-                "id": 900,
-                "name": "0"
-            }
-        ]
-    },
-    {
-        "id": 296,
-        "name": "Agatha",
-        "droplist": []
-    },
-    {
-        "id": 297,
-        "name": "Aguia",
-        "droplist": []
-    },
-    {
-        "id": 298,
-        "name": "Aki",
-        "droplist": [
-            {
-                "id": 3322,
-                "name": "[S]Caixa Pocao de Cura"
-            },
-            {
-                "id": 3323,
-                "name": "[S]Caixa Pocao de Mana"
-            },
-            {
-                "id": 429,
-                "name": "Kit de Cura (10 M.)"
-            },
-            {
-                "id": 433,
-                "name": "Kit de Mana (10 M.)"
-            },
-            {
-                "id": 699,
-                "name": "Pergaminho do Teleporte"
-            },
-            {
-                "id": 410,
-                "name": "Pergaminho Retorno"
-            },
-            {
-                "id": 776,
-                "name": "Pergaminho de Portal(10)"
-            },
-            {
-                "id": 411,
-                "name": "Pergaminho Retorno 10x"
-            },
-            {
-                "id": 4111,
-                "name": "Entrada do Territorio(N)"
-            },
-            {
-                "id": 1728,
-                "name": "Fogos de Artificio"
-            }
-        ]
-    },
-    {
-        "id": 299,
-        "name": "@Meio Orc",
-        "droplist": []
-    },
-    {
-        "id": 300,
-        "name": "Alchemy Anni",
-        "droplist": []
-    },
-    {
-        "id": 301,
-        "name": "Alquimista O",
-        "droplist": [
-            {
-                "id": 3196,
-                "name": "Heroi dos Aventureiros"
-            }
-        ]
-    },
-    {
-        "id": 302,
-        "name": "Anciao Ciclo",
-        "droplist": [
-            {
-                "id": 854,
-                "name": "Gungnir"
-            },
-            {
-                "id": 732,
-                "name": "Olho do Carbunkle"
-            },
-            {
-                "id": 419,
-                "name": "Resto de Oriharucon"
-            },
-            {
-                "id": 420,
-                "name": "Resto de Lactolerium"
-            }
-        ]
-    },
-    {
-        "id": 303,
-        "name": "Anf Assassin",
-        "droplist": []
-    },
-    {
-        "id": 304,
-        "name": "Anf Ninja",
-        "droplist": []
-    },
-    {
-        "id": 305,
-        "name": "Angela",
-        "droplist": []
-    },
-    {
-        "id": 306,
-        "name": "Aparicao",
-        "droplist": [
-            {
-                "id": 738,
-                "name": "Capa Negra do Monstro"
-            }
-        ]
-    },
-    {
-        "id": 307,
-        "name": "Aqua Golem",
-        "droplist": [
-            {
-                "id": 4042,
-                "name": "Emblema do Guarda"
-            },
-            {
-                "id": 854,
-                "name": "Gungnir"
-            },
-            {
-                "id": 732,
-                "name": "Olho do Carbunkle"
-            },
-            {
-                "id": 824,
-                "name": "Arco Elfico"
-            },
-            {
-                "id": 1208,
-                "name": "Elmo Embutido(A)"
-            },
-            {
-                "id": 1641,
-                "name": "Chapeu de Teia(N)"
-            },
-            {
-                "id": 869,
-                "name": "Gram"
-            },
-            {
-                "id": 1209,
-                "name": "Armadura Embutida(N)"
-            },
-            {
-                "id": 1211,
-                "name": "Armadura Embutida(A)"
-            },
-            {
-                "id": 1644,
-                "name": "Peitoral de Teia(N)"
-            },
-            {
-                "id": 1219,
-                "name": "Botas Embutidas(M)"
-            },
-            {
-                "id": 1651,
-                "name": "Bracadeira de Teia(M)"
-            },
-            {
-                "id": 1654,
-                "name": "Botas de Teia(M)"
-            },
-            {
-                "id": 1192,
-                "name": "Elmo Anao(M)"
-            }
-        ]
-    },
-    {
-        "id": 308,
-        "name": "Aranha Doura",
-        "droplist": []
-    },
-    {
-        "id": 309,
-        "name": "Aranha Infer",
-        "droplist": []
-    },
-    {
-        "id": 310,
-        "name": "Aranha Rubra",
-        "droplist": []
-    },
-    {
-        "id": 311,
-        "name": "Argos",
-        "droplist": [
-            {
-                "id": 4041,
-                "name": "Mana do Batedor"
-            },
-            {
-                "id": 854,
-                "name": "Gungnir"
-            },
-            {
-                "id": 884,
-                "name": "Lanca Relampago"
-            },
-            {
-                "id": 420,
-                "name": "Resto de Lactolerium"
-            },
-            {
-                "id": 419,
-                "name": "Resto de Oriharucon"
-            }
-        ]
-    },
-    {
-        "id": 312,
-        "name": "Arc Orc Troo",
-        "droplist": [
-            {
-                "id": 2361,
-                "name": "Javali"
-            }
-        ]
-    },
-    {
-        "id": 313,
-        "name": "Argos Errant",
-        "droplist": [
-            {
-                "id": 4041,
-                "name": "Mana do Batedor"
-            },
-            {
-                "id": 854,
-                "name": "Gungnir"
-            },
-            {
-                "id": 884,
-                "name": "Lanca Relampago"
-            },
-            {
-                "id": 419,
-                "name": "Resto de Oriharucon"
-            },
-            {
-                "id": 733,
-                "name": "Gungnir"
-            }
-        ]
-    },
-    {
-        "id": 314,
-        "name": "Arnod",
-        "droplist": [
-            {
-                "id": 1419,
-                "name": "Armadura Lupina(N)"
-            },
-            {
-                "id": 1422,
-                "name": "Calca Lupina(N)"
-            },
-            {
-                "id": 1425,
-                "name": "Luvas Lupinas(N)"
-            },
-            {
-                "id": 1428,
-                "name": "Botas Lupinas(N)"
-            },
-            {
-                "id": 4016,
-                "name": "Classe A"
-            }
-        ]
-    },
-    {
-        "id": 315,
-        "name": "Arnold",
-        "droplist": [
-            {
-                "id": 835,
-                "name": "Faca Quimerica"
-            },
-            {
-                "id": 880,
-                "name": "Tomahawk"
-            },
-            {
-                "id": 865,
-                "name": "Cimitarra"
-            },
-            {
-                "id": 805,
-                "name": "Kraika"
-            },
-            {
-                "id": 820,
-                "name": "Arco da Confusao"
-            },
-            {
-                "id": 3170,
-                "name": "Notif. Publica(Elixir)"
-            },
-            {
-                "id": 850,
-                "name": "Lanca Escorpiao"
-            },
-            {
-                "id": 895,
-                "name": "Cajado Silencioso"
-            },
-            {
-                "id": 1705,
-                "name": "Escudo de Prata"
-            }
-        ]
-    },
-    {
-        "id": 316,
-        "name": "Arqueiro Elf",
-        "droplist": [
-            {
-                "id": 4015,
-                "name": "Capa de Berseker"
-            }
-        ]
-    },
-    {
-        "id": 317,
-        "name": "Arqueiro Tau",
-        "droplist": [
-            {
-                "id": 615,
-                "name": "Defesa contra Sagrado"
-            },
-            {
-                "id": 614,
-                "name": "Defesa contra Relampago"
-            },
-            {
-                "id": 612,
-                "name": "Defesa contra Fogo"
-            },
-            {
-                "id": 825,
-                "name": "Arco Divino"
-            }
-        ]
-    },
-    {
-        "id": 318,
-        "name": "Arq Caveira",
-        "droplist": [
-            {
-                "id": 4040,
-                "name": "Cura do Batedor"
-            }
-        ]
-    },
-    {
-        "id": 319,
-        "name": "Aylin",
-        "droplist": []
-    },
-    {
-        "id": 320,
-        "name": "Balmus",
-        "droplist": []
-    },
-    {
-        "id": 321,
-        "name": "Balrog",
-        "droplist": []
-    },
-    {
-        "id": 322,
-        "name": "Bardes",
-        "droplist": [
-            {
-                "id": 1937,
-                "name": "20x HP Item(Monstro)"
-            },
-            {
-                "id": 3322,
-                "name": "[S]Caixa Pocao de Cura"
-            },
-            {
-                "id": 3323,
-                "name": "[S]Caixa Pocao de Mana"
-            },
-            {
-                "id": 410,
-                "name": "Pergaminho Retorno"
-            },
-            {
-                "id": 411,
-                "name": "Pergaminho Retorno 10x"
-            },
-            {
-                "id": 699,
-                "name": "Pergaminho do Teleporte"
-            },
-            {
-                "id": 776,
-                "name": "Pergaminho de Portal(10)"
-            },
-            {
-                "id": 700,
-                "name": "16"
-            },
-            {
-                "id": 697,
-                "name": "Safira"
-            }
-        ]
-    },
-    {
-        "id": 323,
-        "name": "Basilisco If",
-        "droplist": []
-    },
-    {
-        "id": 324,
-        "name": "Basilisco",
-        "droplist": []
-    },
-    {
-        "id": 325,
-        "name": "Batorero",
-        "droplist": []
-    },
-    {
-        "id": 326,
-        "name": "Batorero Inf",
-        "droplist": []
-    },
-    {
-        "id": 327,
-        "name": "Berlund",
-        "droplist": []
-    },
-    {
-        "id": 328,
-        "name": "Berserker Re",
-        "droplist": []
-    },
-    {
-        "id": 329,
-        "name": "BlackOracle",
-        "droplist": []
-    },
-    {
-        "id": 330,
-        "name": "Bruxa Elfica",
-        "droplist": []
-    },
-    {
-        "id": 331,
-        "name": "Bruce",
-        "droplist": []
-    },
-    {
-        "id": 332,
-        "name": "C. de Montar",
-        "droplist": [
-            {
-                "id": 2420,
-                "name": "Racao de Porco"
-            },
-            {
-                "id": 2421,
-                "name": "Racao de Javali"
-            },
-            {
-                "id": 2422,
-                "name": "Racao de Lobo"
-            },
-            {
-                "id": 2423,
-                "name": "Racao de Dragao Menor"
-            },
-            {
-                "id": 2424,
-                "name": "Racao de Urso"
-            },
-            {
-                "id": 2425,
-                "name": "Racao de Dente de Sabre"
-            },
-            {
-                "id": 2426,
-                "name": "Racao de Cavalo"
-            },
-            {
-                "id": 2436,
-                "name": "Racao de Fenrir"
-            },
-            {
-                "id": 2429,
-                "name": "Racao de Unicornio"
-            }
-        ]
-    },
-    {
-        "id": 333,
-        "name": "Cacador Trol",
-        "droplist": []
-    },
-    {
-        "id": 334,
-        "name": "Cap.Cavaleir",
-        "droplist": [
-            {
-                "id": 5000,
-                "name": "0"
-            },
-            {
-                "id": 5001,
-                "name": "Toque Sagrado"
-            },
-            {
-                "id": 5002,
-                "name": "Golpe Duplo"
-            },
-            {
-                "id": 5003,
-                "name": "Samaritano"
-            },
-            {
-                "id": 5004,
-                "name": "Fanatismo"
-            },
-            {
-                "id": 5005,
-                "name": "Aura da Vida"
-            },
-            {
-                "id": 5006,
-                "name": "Furia Divina"
-            },
-            {
-                "id": 5007,
-                "name": "Destino"
-            },
-            {
-                "id": 5008,
-                "name": "Carga"
-            },
-            {
-                "id": 5009,
-                "name": "Mestre das Armas"
-            },
-            {
-                "id": 5010,
-                "name": "Golpe Mortal"
-            },
-            {
-                "id": 5011,
-                "name": "Assalto"
-            },
-            {
-                "id": 5012,
-                "name": "Espada da Fenix"
-            },
-            {
-                "id": 5013,
-                "name": "Possuido"
-            },
-            {
-                "id": 5014,
-                "name": "Nocao de Combate"
-            },
-            {
-                "id": 5015,
-                "name": "Armadura Critica"
-            },
-            {
-                "id": 5016,
-                "name": "Perseguicao"
-            },
-            {
-                "id": 5017,
-                "name": "Espada Flamejante"
-            }
-        ]
-    },
-    {
-        "id": 335,
-        "name": "Cap.Explor.",
-        "droplist": []
-    },
-    {
-        "id": 336,
-        "name": "Cap.Mercenar",
-        "droplist": []
-    },
-    {
-        "id": 337,
-        "name": "Capitao Amon",
-        "droplist": []
-    },
-    {
-        "id": 338,
-        "name": "Carbuncle Ou",
-        "droplist": []
-    },
-    {
-        "id": 339,
-        "name": "Ajudante",
-        "droplist": []
-    },
-    {
-        "id": 340,
-        "name": "Carbunkle",
-        "droplist": [
-            {
-                "id": 4039,
-                "name": "Colheita do Jardineiro"
-            },
-            {
-                "id": 1315,
-                "name": "Tunica de Concha(M)"
-            }
-        ]
-    },
-    {
-        "id": 341,
-        "name": "Cav.Caveira",
-        "droplist": [
-            {
-                "id": 4041,
-                "name": "Mana do Batedor"
-            },
-            {
-                "id": 4040,
-                "name": "Cura do Batedor"
-            },
-            {
-                "id": 1200,
-                "name": "192"
-            },
-            {
-                "id": 1199,
-                "name": "Calca Ana(A)"
-            },
-            {
-                "id": 1203,
-                "name": "Botas Ana(N)"
-            },
-            {
-                "id": 1195,
-                "name": "Armadura Ana(M)"
-            },
-            {
-                "id": 1193,
-                "name": "Elmo Anao(A)"
-            },
-            {
-                "id": 1639,
-                "name": "Botas da Natureza(M)"
-            },
-            {
-                "id": 1637,
-                "name": "Luvas da Natureza(A)"
-            },
-            {
-                "id": 1634,
-                "name": "Calca da Natureza(A)"
-            },
-            {
-                "id": 1631,
-                "name": "Peitoral da Natureza(A)"
-            },
-            {
-                "id": 1628,
-                "name": "Chapeu da Natureza(A)"
-            }
-        ]
-    },
-    {
-        "id": 342,
-        "name": "Cav. Elfo Ne",
-        "droplist": [
-            {
-                "id": 738,
-                "name": "Capa Negra do Monstro"
-            },
-            {
-                "id": 4042,
-                "name": "Emblema do Guarda"
-            },
-            {
-                "id": 2442,
-                "name": "Esmeralda"
-            }
-        ]
-    },
-    {
-        "id": 343,
-        "name": "Cav. Kaizen",
-        "droplist": [
-            {
-                "id": 738,
-                "name": "Capa Negra do Monstro"
-            }
-        ]
-    },
-    {
-        "id": 344,
-        "name": "Cav. Lugefer",
-        "droplist": [
-            {
-                "id": 2370,
-                "name": "Andaluz N"
-            },
-            {
-                "id": 290,
-                "name": "Manto Negro Lendario"
-            },
-            {
-                "id": 825,
-                "name": "Arco Divino"
-            },
-            {
-                "id": 824,
-                "name": "Arco Elfico"
-            },
-            {
-                "id": 1712,
-                "name": "Escudo do Guardiao"
-            },
-            {
-                "id": 3556,
-                "name": "Arco Guardiao"
-            },
-            {
-                "id": 3551,
-                "name": "Asa Draconiana"
-            },
-            {
-                "id": 3581,
-                "name": "Forca Eterna"
-            },
-            {
-                "id": 3576,
-                "name": "Karikas"
-            },
-            {
-                "id": 3582,
-                "name": "Cajado Caotico"
-            },
-            {
-                "id": 2441,
-                "name": "Diamante"
-            },
-            {
-                "id": 2442,
-                "name": "Esmeralda"
-            }
-        ]
-    },
-    {
-        "id": 345,
-        "name": "Cav. Mortal",
-        "droplist": [
-            {
-                "id": 4081,
-                "name": "Emblema do Reino"
-            }
-        ]
-    },
-    {
-        "id": 346,
-        "name": "Cav. Servo",
-        "droplist": [
-            {
-                "id": 4119,
-                "name": "Coracao do Kaizen"
-            }
-        ]
-    },
-    {
-        "id": 347,
-        "name": "Cavaleiro Ne",
-        "droplist": []
-    },
-    {
-        "id": 348,
-        "name": "Caveira",
-        "droplist": []
-    },
-    {
-        "id": 349,
-        "name": "Caveira Lanc",
-        "droplist": [
-            {
-                "id": 4040,
-                "name": "Cura do Batedor"
-            }
-        ]
-    },
-    {
-        "id": 350,
-        "name": "Chefe Amon I",
-        "droplist": []
-    },
-    {
-        "id": 351,
-        "name": "Chefe de Tre",
-        "droplist": []
-    },
-    {
-        "id": 352,
-        "name": "Chefe Ghoul",
-        "droplist": [
-            {
-                "id": 1319,
-                "name": "Calca de Concha(A)"
-            },
-            {
-                "id": 1327,
-                "name": "Chapeu Conjurador(M)"
-            },
-            {
-                "id": 1329,
-                "name": "Tunica Conjuradora(N)"
-            },
-            {
-                "id": 1321,
-                "name": "Luvas de Concha(M)"
-            }
-        ]
-    },
-    {
-        "id": 353,
-        "name": "Chefe Krill",
-        "droplist": [
-            {
-                "id": 4038,
-                "name": "Vela do Coveiro"
-            }
-        ]
-    },
-    {
-        "id": 354,
-        "name": "Chefe Orc",
-        "droplist": []
-    },
-    {
-        "id": 355,
-        "name": "Chefe Taurus",
-        "droplist": [
-            {
-                "id": 4080,
-                "name": "Emblema da Aprendizagem"
-            }
-        ]
-    },
-    {
-        "id": 356,
-        "name": "CH Troll Gho",
-        "droplist": [
-            {
-                "id": 738,
-                "name": "Capa Negra do Monstro"
-            }
-        ]
-    },
-    {
-        "id": 357,
-        "name": "Chefe Treina",
-        "droplist": [
-            {
-                "id": 4006,
-                "name": "Manto do Aprendiz"
-            }
-        ]
-    },
-    {
-        "id": 358,
-        "name": "Ciclope",
-        "droplist": [
-            {
-                "id": 4039,
-                "name": "Colheita do Jardineiro"
-            }
-        ]
-    },
-    {
-        "id": 359,
-        "name": "Ciclope Arq",
-        "droplist": [
-            {
-                "id": 824,
-                "name": "Arco Elfico"
-            },
-            {
-                "id": 419,
-                "name": "Resto de Oriharucon"
-            },
-            {
-                "id": 899,
-                "name": "Olho do Carbunkle"
-            },
-            {
-                "id": 420,
-                "name": "Resto de Lactolerium"
-            }
-        ]
-    },
-    {
-        "id": 360,
-        "name": "Ciclope Crue",
-        "droplist": [
-            {
-                "id": 854,
-                "name": "Gungnir"
-            },
-            {
-                "id": 824,
-                "name": "Arco Elfico"
-            },
-            {
-                "id": 419,
-                "name": "Resto de Oriharucon"
-            },
-            {
-                "id": 420,
-                "name": "Resto de Lactolerium"
-            }
-        ]
-    },
-    {
-        "id": 361,
-        "name": "Ciclope Sang",
-        "droplist": []
-    },
-    {
-        "id": 362,
-        "name": "Compositor",
-        "droplist": []
-    },
-    {
-        "id": 363,
-        "name": "Conj Caveira",
-        "droplist": []
-    },
-    {
-        "id": 364,
-        "name": "Coveiro",
-        "droplist": []
-    },
-    {
-        "id": 365,
-        "name": "Creta",
-        "droplist": []
-    },
-    {
-        "id": 366,
-        "name": "Dedekinto",
-        "droplist": []
-    },
-    {
-        "id": 367,
-        "name": "Demon Gorgon",
-        "droplist": [
-            {
-                "id": 133,
-                "name": "Armadura de Archie"
-            },
-            {
-                "id": 738,
-                "name": "Capa Negra do Monstro"
-            }
-        ]
-    },
-    {
-        "id": 368,
-        "name": "Demon Lord",
-        "droplist": []
-    },
-    {
-        "id": 369,
-        "name": "Diretor Trei",
-        "droplist": [
-            {
-                "id": 4006,
-                "name": "Manto do Aprendiz"
-            }
-        ]
-    },
-    {
-        "id": 370,
-        "name": "Dracorich",
-        "droplist": []
-    },
-    {
-        "id": 371,
-        "name": "Draco Lich",
-        "droplist": []
-    },
-    {
-        "id": 372,
-        "name": "Dragao de Az",
-        "droplist": []
-    },
-    {
-        "id": 373,
-        "name": "Dragao de Co",
-        "droplist": []
-    },
-    {
-        "id": 374,
-        "name": "Dragao Doura",
-        "droplist": []
-    },
-    {
-        "id": 375,
-        "name": "Dragao Amald",
-        "droplist": []
-    },
-    {
-        "id": 376,
-        "name": "Dragao Menor",
-        "droplist": [
-            {
-                "id": 1112,
-                "name": "Elmo de Malha(A)"
-            }
-        ]
-    },
-    {
-        "id": 377,
+        "id": 961,
         "name": "Dreadtaurs",
         "droplist": []
     },
     {
-        "id": 378,
+        "id": 962,
         "name": "Ehre",
         "droplist": []
     },
     {
-        "id": 379,
+        "id": 963,
+        "name": "Dragao Amald",
+        "droplist": []
+    },
+    {
+        "id": 964,
         "name": "Elfo Negro",
         "droplist": [
             {
@@ -1160,7 +49,7 @@
         ]
     },
     {
-        "id": 380,
+        "id": 965,
         "name": "Elfo Negro A",
         "droplist": [
             {
@@ -1174,27 +63,22 @@
         ]
     },
     {
-        "id": 381,
-        "name": "Ent Anciao",
-        "droplist": []
-    },
-    {
-        "id": 382,
+        "id": 966,
         "name": "Empis",
         "droplist": []
     },
     {
-        "id": 383,
-        "name": "Esqueleto",
-        "droplist": [
-            {
-                "id": 4117,
-                "name": "Caixa da Sabedoria"
-            }
-        ]
+        "id": 967,
+        "name": "Ent Anciao",
+        "droplist": []
     },
     {
-        "id": 384,
+        "id": 968,
+        "name": "Esqueleto",
+        "droplist": []
+    },
+    {
+        "id": 969,
         "name": "Ferreiro",
         "droplist": [
             {
@@ -1220,7 +104,7 @@
         ]
     },
     {
-        "id": 385,
+        "id": 970,
         "name": "Flame Gargul",
         "droplist": [
             {
@@ -1250,21 +134,7 @@
         ]
     },
     {
-        "id": 521,
-        "name": "Rei Harabard",
-        "droplist": [
-            {
-                "id": 2375,
-                "name": "Andaluz B"
-            },
-            {
-                "id": 3191,
-                "name": "Elite de Hekalotia"
-            }
-        ]
-    },
-    {
-        "id": 386,
+        "id": 971,
         "name": "Foema Ancian",
         "droplist": [
             {
@@ -1342,7 +212,7 @@
         ]
     },
     {
-        "id": 387,
+        "id": 972,
         "name": "ForeLearner",
         "droplist": [
             {
@@ -1420,7 +290,7 @@
         ]
     },
     {
-        "id": 388,
+        "id": 973,
         "name": "FrenzyDemonL",
         "droplist": [
             {
@@ -1434,42 +304,42 @@
         ]
     },
     {
-        "id": 389,
+        "id": 974,
         "name": "Freyja",
         "droplist": []
     },
     {
-        "id": 390,
+        "id": 975,
         "name": "FunerSeamer",
         "droplist": []
     },
     {
-        "id": 391,
-        "name": "FunerSickler",
-        "droplist": []
-    },
-    {
-        "id": 392,
+        "id": 976,
         "name": "Funer Moment",
         "droplist": []
     },
     {
-        "id": 393,
+        "id": 977,
+        "name": "FunerSickler",
+        "droplist": []
+    },
+    {
+        "id": 978,
         "name": "Funer Scythe",
         "droplist": []
     },
     {
-        "id": 394,
+        "id": 979,
         "name": "Funer Seamer",
         "droplist": []
     },
     {
-        "id": 395,
+        "id": 980,
         "name": "Funer Sickle",
         "droplist": []
     },
     {
-        "id": 396,
+        "id": 981,
         "name": "Galford",
         "droplist": [
             {
@@ -1503,12 +373,12 @@
         ]
     },
     {
-        "id": 397,
+        "id": 982,
         "name": "Gargula",
         "droplist": []
     },
     {
-        "id": 398,
+        "id": 983,
         "name": "Gargula Inf",
         "droplist": [
             {
@@ -1518,12 +388,12 @@
         ]
     },
     {
-        "id": 399,
+        "id": 984,
         "name": "Gargula Sabi",
         "droplist": []
     },
     {
-        "id": 400,
+        "id": 985,
         "name": "Gargula Serv",
         "droplist": [
             {
@@ -1553,12 +423,12 @@
         ]
     },
     {
-        "id": 401,
+        "id": 986,
         "name": "Gate Keeper",
         "droplist": []
     },
     {
-        "id": 402,
+        "id": 987,
         "name": "Ghoul",
         "droplist": [
             {
@@ -1576,77 +446,77 @@
         ]
     },
     {
-        "id": 403,
-        "name": "GodGovernmen",
-        "droplist": []
-    },
-    {
-        "id": 404,
+        "id": 988,
         "name": "Golem de Fog",
         "droplist": []
     },
     {
-        "id": 405,
+        "id": 989,
+        "name": "GodGovernmen",
+        "droplist": []
+    },
+    {
+        "id": 990,
         "name": "Golem de Ped",
         "droplist": []
     },
     {
-        "id": 406,
+        "id": 991,
         "name": "Grande Carb",
         "droplist": []
     },
     {
-        "id": 407,
-        "name": "Grande Lobo",
-        "droplist": []
-    },
-    {
-        "id": 408,
+        "id": 992,
         "name": "Gremlin",
         "droplist": []
     },
     {
-        "id": 409,
+        "id": 993,
         "name": "Gremlin Anct",
         "droplist": []
     },
     {
-        "id": 410,
+        "id": 994,
+        "name": "Grande Lobo",
+        "droplist": []
+    },
+    {
+        "id": 995,
         "name": "Gremlin Arti",
         "droplist": []
     },
     {
-        "id": 411,
+        "id": 996,
         "name": "Grim Lock",
         "droplist": []
     },
     {
-        "id": 412,
+        "id": 997,
         "name": "GrubSwarm",
         "droplist": []
     },
     {
-        "id": 413,
+        "id": 998,
         "name": "Guard",
         "droplist": []
     },
     {
-        "id": 414,
+        "id": 999,
         "name": "Guarda",
         "droplist": []
     },
     {
-        "id": 415,
+        "id": 1000,
         "name": "Guarda Berie",
         "droplist": []
     },
     {
-        "id": 416,
+        "id": 1001,
         "name": "Guarda Carga",
         "droplist": []
     },
     {
-        "id": 417,
+        "id": 1002,
         "name": "Guarda Orc",
         "droplist": [
             {
@@ -1664,7 +534,7 @@
         ]
     },
     {
-        "id": 418,
+        "id": 1003,
         "name": "Guarda Real",
         "droplist": [
             {
@@ -1674,7 +544,7 @@
         ]
     },
     {
-        "id": 419,
+        "id": 1004,
         "name": "Guarda Real ",
         "droplist": [
             {
@@ -1684,17 +554,17 @@
         ]
     },
     {
-        "id": 420,
+        "id": 1005,
         "name": "Guard ",
         "droplist": []
     },
     {
-        "id": 421,
+        "id": 1006,
         "name": "Guerreiro Am",
         "droplist": []
     },
     {
-        "id": 422,
+        "id": 1007,
         "name": "Guerreiro El",
         "droplist": [
             {
@@ -1704,12 +574,12 @@
         ]
     },
     {
-        "id": 423,
+        "id": 1008,
         "name": "Guer Amon In",
         "droplist": []
     },
     {
-        "id": 424,
+        "id": 1009,
         "name": "Guer Caveira",
         "droplist": [
             {
@@ -1723,7 +593,7 @@
         ]
     },
     {
-        "id": 425,
+        "id": 1010,
         "name": "Guer Kalintz",
         "droplist": [
             {
@@ -1733,7 +603,12 @@
         ]
     },
     {
-        "id": 426,
+        "id": 1011,
+        "name": "Hera",
+        "droplist": []
+    },
+    {
+        "id": 1012,
         "name": "Hefesto",
         "droplist": [
             {
@@ -1767,12 +642,7 @@
         ]
     },
     {
-        "id": 427,
-        "name": "Hera",
-        "droplist": []
-    },
-    {
-        "id": 428,
+        "id": 1013,
         "name": "Hestia",
         "droplist": [
             {
@@ -1806,12 +676,17 @@
         ]
     },
     {
-        "id": 429,
+        "id": 1014,
         "name": "Hezling",
         "droplist": []
     },
     {
-        "id": 430,
+        "id": 1015,
+        "name": "Hidra ",
+        "droplist": []
+    },
+    {
+        "id": 1016,
         "name": "Hidra",
         "droplist": [
             {
@@ -1849,17 +724,12 @@
         ]
     },
     {
-        "id": 431,
-        "name": "Hidra ",
-        "droplist": []
-    },
-    {
-        "id": 432,
+        "id": 1017,
         "name": "Hidra Dourad",
         "droplist": []
     },
     {
-        "id": 433,
+        "id": 1018,
         "name": "Hidra Imorta",
         "droplist": [
             {
@@ -1869,62 +739,62 @@
         ]
     },
     {
-        "id": 434,
+        "id": 1019,
         "name": "Hier-Carbunk",
         "droplist": []
     },
     {
-        "id": 435,
+        "id": 1020,
         "name": "Homem Kalint",
         "droplist": []
     },
     {
-        "id": 436,
-        "name": "HorizonCropp",
-        "droplist": []
-    },
-    {
-        "id": 437,
-        "name": "InionTroll",
-        "droplist": []
-    },
-    {
-        "id": 438,
+        "id": 1021,
         "name": "Horizon Crop",
         "droplist": []
     },
     {
-        "id": 439,
-        "name": "InionTrollCh",
+        "id": 1022,
+        "name": "HorizonCropp",
         "droplist": []
     },
     {
-        "id": 440,
+        "id": 1023,
         "name": "Jardineiro",
         "droplist": []
     },
     {
-        "id": 441,
+        "id": 1024,
+        "name": "InionTroll",
+        "droplist": []
+    },
+    {
+        "id": 1025,
         "name": "Javali",
         "droplist": []
     },
     {
-        "id": 442,
+        "id": 1026,
         "name": "Jeffi",
         "droplist": []
     },
     {
-        "id": 443,
+        "id": 1027,
+        "name": "InionTrollCh",
+        "droplist": []
+    },
+    {
+        "id": 1028,
         "name": "Judith",
         "droplist": []
     },
     {
-        "id": 444,
+        "id": 1029,
         "name": "Juli",
         "droplist": []
     },
     {
-        "id": 445,
+        "id": 1030,
         "name": "Kalitz Mago",
         "droplist": [
             {
@@ -1934,17 +804,12 @@
         ]
     },
     {
-        "id": 446,
+        "id": 1031,
         "name": "Kara",
         "droplist": []
     },
     {
-        "id": 448,
-        "name": "Kibita",
-        "droplist": []
-    },
-    {
-        "id": 447,
+        "id": 1032,
         "name": "Kepler",
         "droplist": [
             {
@@ -1974,25 +839,49 @@
             {
                 "id": 4019,
                 "name": "Classe D"
-            },
-            {
-                "id": 4146,
-                "name": "Selo do Guerreiro"
             }
         ]
     },
     {
-        "id": 449,
+        "id": 1033,
+        "name": "Kibita",
+        "droplist": []
+    },
+    {
+        "id": 1034,
         "name": "Kingdom Brok",
         "droplist": []
     },
     {
-        "id": 451,
+        "id": 1035,
+        "name": "Krill",
+        "droplist": [
+            {
+                "id": 1123,
+                "name": "Armadura de Malha(M)"
+            },
+            {
+                "id": 1122,
+                "name": "Armadura de Malha(N)"
+            },
+            {
+                "id": 1121,
+                "name": "Cota de Couro Batido(A)"
+            }
+        ]
+    },
+    {
+        "id": 1036,
         "name": "Krill ",
         "droplist": []
     },
     {
-        "id": 453,
+        "id": 1037,
+        "name": "Krill Gigant",
+        "droplist": []
+    },
+    {
+        "id": 1038,
         "name": "Ladrao Tauro",
         "droplist": [
             {
@@ -2000,46 +889,136 @@
                 "name": "Fenrir das Sombras"
             },
             {
-                "id": 2316,
-                "name": "Ovo de Fenrir"
+                "id": 419,
+                "name": "Resto de Oriharucon"
+            },
+            {
+                "id": 1660,
+                "name": "Elmo Legionario"
+            },
+            {
+                "id": 1661,
+                "name": "Armadura Legionaria"
+            },
+            {
+                "id": 1360,
+                "name": "Elmo Templario"
+            },
+            {
+                "id": 1229,
+                "name": "Botas Mortais"
             },
             {
                 "id": 420,
                 "name": "Resto de Lactolerium"
             },
             {
-                "id": 419,
-                "name": "Resto de Oriharucon"
+                "id": 1361,
+                "name": "Tunica Templaria"
+            },
+            {
+                "id": 1227,
+                "name": "Calca Mortal"
             }
         ]
     },
     {
-        "id": 455,
+        "id": 1039,
+        "name": "Lanceiro Zak",
+        "droplist": []
+    },
+    {
+        "id": 1040,
         "name": "Lich Batama",
         "droplist": []
     },
     {
-        "id": 457,
+        "id": 1041,
+        "name": "Lich Crunt",
+        "droplist": []
+    },
+    {
+        "id": 1042,
         "name": "Lich Demo",
         "droplist": []
     },
     {
-        "id": 459,
+        "id": 1043,
+        "name": "Lich Inferno",
+        "droplist": []
+    },
+    {
+        "id": 1044,
         "name": "LiggleSwarm",
         "droplist": []
     },
     {
-        "id": 461,
+        "id": 1045,
+        "name": "Lindy",
+        "droplist": [
+            {
+                "id": 3196,
+                "name": "Heroi dos Aventureiros"
+            }
+        ]
+    },
+    {
+        "id": 1046,
         "name": "Lizard",
         "droplist": []
     },
     {
-        "id": 463,
+        "id": 1047,
         "name": "Lobo Polar",
-        "droplist": []
+        "droplist": [
+            {
+                "id": 412,
+                "name": "Poeira de Oriharucon"
+            },
+            {
+                "id": 413,
+                "name": "Poeira de Lactolerium"
+            }
+        ]
     },
     {
-        "id": 465,
+        "id": 1048,
+        "name": "Lobo",
+        "droplist": [
+            {
+                "id": 4038,
+                "name": "Vela do Coveiro"
+            }
+        ]
+    },
+    {
+        "id": 1049,
+        "name": "Lubien",
+        "droplist": [
+            {
+                "id": 1599,
+                "name": "Peitoral de Metal(N)"
+            },
+            {
+                "id": 1602,
+                "name": "Calca de Metal(N)"
+            },
+            {
+                "id": 1605,
+                "name": "Bracadeira de Metal(N)"
+            },
+            {
+                "id": 1608,
+                "name": "Botas de Metal(N)"
+            },
+            {
+                "id": 4017,
+                "name": "Classe B"
+            }
+        ]
+    },
+    {
+        "id": 1050,
         "name": "Lucy",
         "droplist": [
             {
@@ -2065,7 +1044,77 @@
         ]
     },
     {
-        "id": 467,
+        "id": 1051,
+        "name": "Lugefer",
+        "droplist": [
+            {
+                "id": 290,
+                "name": "Manto Negro Lendario"
+            },
+            {
+                "id": 900,
+                "name": "0"
+            },
+            {
+                "id": 810,
+                "name": "Martelo Assassino"
+            },
+            {
+                "id": 870,
+                "name": "Espada Vorpal"
+            },
+            {
+                "id": 911,
+                "name": "Solaris"
+            },
+            {
+                "id": 2143,
+                "name": "Cruz Sagrada"
+            },
+            {
+                "id": 936,
+                "name": "Mjolnir"
+            },
+            {
+                "id": 855,
+                "name": "Lanca do Triunfo"
+            },
+            {
+                "id": 902,
+                "name": "Cajado de Âmbar"
+            },
+            {
+                "id": 2441,
+                "name": "Diamante"
+            },
+            {
+                "id": 2442,
+                "name": "Esmeralda"
+            },
+            {
+                "id": 1915,
+                "name": "Escudo Guardiao"
+            },
+            {
+                "id": 1651,
+                "name": "Bracadeira de Teia(M)"
+            },
+            {
+                "id": 1501,
+                "name": "Manoplas Elementais(M)"
+            },
+            {
+                "id": 1351,
+                "name": "Luvas de Mytril(M)"
+            },
+            {
+                "id": 1216,
+                "name": "Manoplas Embutidas(M)"
+            }
+        ]
+    },
+    {
+        "id": 1052,
         "name": "Lugefer Inf",
         "droplist": [
             {
@@ -2075,17 +1124,63 @@
         ]
     },
     {
-        "id": 469,
+        "id": 1053,
         "name": "M. de Montar",
         "droplist": []
     },
     {
-        "id": 471,
+        "id": 1054,
+        "name": "Mago Amald",
+        "droplist": [
+            {
+                "id": 4015,
+                "name": "Capa de Berseker"
+            }
+        ]
+    },
+    {
+        "id": 1055,
+        "name": "Mago Inf",
+        "droplist": [
+            {
+                "id": 4015,
+                "name": "Capa de Berseker"
+            }
+        ]
+    },
+    {
+        "id": 1056,
+        "name": "Martin",
+        "droplist": [
+            {
+                "id": 3322,
+                "name": "[S]Caixa Pocao de Cura"
+            },
+            {
+                "id": 3323,
+                "name": "[S]Caixa Pocao de Mana"
+            },
+            {
+                "id": 415,
+                "name": "Ervas de Cura"
+            }
+        ]
+    },
+    {
+        "id": 1057,
         "name": "Manticora",
         "droplist": [
             {
+                "id": 1663,
+                "name": "Manoplas Legionarias"
+            },
+            {
                 "id": 870,
                 "name": "Espada Vorpal"
+            },
+            {
+                "id": 1513,
+                "name": "Manoplas do Corvo"
             },
             {
                 "id": 810,
@@ -2100,13 +1195,21 @@
                 "name": "Resto de Lactolerium"
             },
             {
+                "id": 1363,
+                "name": "Manoplas Templarias"
+            },
+            {
                 "id": 419,
                 "name": "Resto de Oriharucon"
+            },
+            {
+                "id": 1228,
+                "name": "Monaplas Mortais"
             }
         ]
     },
     {
-        "id": 473,
+        "id": 1058,
         "name": "Martin ",
         "droplist": [
             {
@@ -2132,7 +1235,21 @@
         ]
     },
     {
-        "id": 475,
+        "id": 1059,
+        "name": "Meio Orc",
+        "droplist": [
+            {
+                "id": 4038,
+                "name": "Vela do Coveiro"
+            },
+            {
+                "id": 1135,
+                "name": "Calca de Malha(M)"
+            }
+        ]
+    },
+    {
+        "id": 1060,
         "name": "Mestre Archi",
         "droplist": [
             {
@@ -2210,7 +1327,17 @@
         ]
     },
     {
-        "id": 477,
+        "id": 1061,
+        "name": "Mestre Elfo",
+        "droplist": [
+            {
+                "id": 738,
+                "name": "Capa Negra do Monstro"
+            }
+        ]
+    },
+    {
+        "id": 1062,
         "name": "Mestre Grifo",
         "droplist": [
             {
@@ -2220,7 +1347,12 @@
         ]
     },
     {
-        "id": 479,
+        "id": 1063,
+        "name": "Mestre Haby",
+        "droplist": []
+    },
+    {
+        "id": 1064,
         "name": "Minotaur",
         "droplist": [
             {
@@ -2238,17 +1370,74 @@
         ]
     },
     {
-        "id": 481,
+        "id": 1065,
+        "name": "Morlock",
+        "droplist": [
+            {
+                "id": 4042,
+                "name": "Emblema do Guarda"
+            },
+            {
+                "id": 902,
+                "name": "Cajado de Âmbar"
+            },
+            {
+                "id": 2443,
+                "name": "Coral"
+            },
+            {
+                "id": 899,
+                "name": "Olho do Carbunkle"
+            },
+            {
+                "id": 900,
+                "name": "0"
+            }
+        ]
+    },
+    {
+        "id": 1066,
         "name": "Mulher Kalin",
         "droplist": []
     },
     {
-        "id": 483,
+        "id": 1067,
+        "name": "NainTroll",
+        "droplist": []
+    },
+    {
+        "id": 1068,
         "name": "NainTrollChi",
         "droplist": []
     },
     {
-        "id": 485,
+        "id": 1069,
+        "name": "Neptus",
+        "droplist": [
+            {
+                "id": 1272,
+                "name": "Robe Sombrio(N)"
+            },
+            {
+                "id": 1284,
+                "name": "Calca Sombria(N)"
+            },
+            {
+                "id": 1296,
+                "name": "Luvas Sombrias(N)"
+            },
+            {
+                "id": 1308,
+                "name": "Botas Sombrias(N)"
+            },
+            {
+                "id": 4017,
+                "name": "Classe B"
+            }
+        ]
+    },
+    {
+        "id": 1070,
         "name": "Orc Arqueiro",
         "droplist": [
             {
@@ -2258,7 +1447,17 @@
         ]
     },
     {
-        "id": 487,
+        "id": 1071,
+        "name": "Orc Cavaleir",
+        "droplist": [
+            {
+                "id": 1135,
+                "name": "Calca de Malha(M)"
+            }
+        ]
+    },
+    {
+        "id": 1072,
         "name": "Orc Guard",
         "droplist": [
             {
@@ -2272,7 +1471,21 @@
         ]
     },
     {
-        "id": 489,
+        "id": 1073,
+        "name": "Orc Guerreir",
+        "droplist": [
+            {
+                "id": 1139,
+                "name": "Luvas de Couro(A)"
+            },
+            {
+                "id": 1135,
+                "name": "Calca de Malha(M)"
+            }
+        ]
+    },
+    {
+        "id": 1074,
         "name": "Orc Lord",
         "droplist": [
             {
@@ -2314,7 +1527,17 @@
         ]
     },
     {
-        "id": 491,
+        "id": 1075,
+        "name": "Orc L Troope",
+        "droplist": [
+            {
+                "id": 2363,
+                "name": "Dragao Menor"
+            }
+        ]
+    },
+    {
+        "id": 1076,
         "name": "Orc Medico",
         "droplist": [
             {
@@ -2324,7 +1547,22 @@
         ]
     },
     {
-        "id": 493,
+        "id": 1077,
+        "name": "Orc Shaman",
+        "droplist": [
+            {
+                "id": 4039,
+                "name": "Colheita do Jardineiro"
+            }
+        ]
+    },
+    {
+        "id": 1078,
+        "name": "Orc Sniper",
+        "droplist": []
+    },
+    {
+        "id": 1079,
         "name": "Orc Sha Troo",
         "droplist": [
             {
@@ -2334,7 +1572,7 @@
         ]
     },
     {
-        "id": 495,
+        "id": 1080,
         "name": "Parche",
         "droplist": [
             {
@@ -2344,6 +1582,10 @@
             {
                 "id": 3323,
                 "name": "[S]Caixa Pocao de Mana"
+            },
+            {
+                "id": 4146,
+                "name": "Selo do Guerreiro"
             },
             {
                 "id": 410,
@@ -2368,12 +1610,22 @@
         ]
     },
     {
-        "id": 497,
+        "id": 1081,
+        "name": "Patrulha",
+        "droplist": []
+    },
+    {
+        "id": 1082,
         "name": "Patrulha ",
         "droplist": []
     },
     {
-        "id": 499,
+        "id": 1083,
+        "name": "Patrulha  ",
+        "droplist": []
+    },
+    {
+        "id": 1084,
         "name": "PerAranha",
         "droplist": [
             {
@@ -2423,484 +1675,7 @@
         ]
     },
     {
-        "id": 501,
-        "name": "PerHorizon",
-        "droplist": [
-            {
-                "id": 419,
-                "name": "Resto de Oriharucon"
-            },
-            {
-                "id": 420,
-                "name": "Resto de Lactolerium"
-            },
-            {
-                "id": 4026,
-                "name": "Moeda de Prata(1Mi)"
-            },
-            {
-                "id": 4019,
-                "name": "Classe D"
-            },
-            {
-                "id": 658,
-                "name": "Gema da Siren"
-            },
-            {
-                "id": 1492,
-                "name": "Elmo Elemental(M)"
-            },
-            {
-                "id": 1495,
-                "name": "Armadura Elemental(M)"
-            },
-            {
-                "id": 1498,
-                "name": "Calca Elemental(M)"
-            },
-            {
-                "id": 1501,
-                "name": "Manoplas Elementais(M)"
-            },
-            {
-                "id": 1504,
-                "name": "Botas Elementais(M)"
-            },
-            {
-                "id": 2402,
-                "name": "Âmago de Cav Fantasm B"
-            }
-        ]
-    },
-    {
-        "id": 503,
-        "name": "Perzen",
-        "droplist": [
-            {
-                "id": 4110,
-                "name": "Esfera da Sorte"
-            },
-            {
-                "id": 3989,
-                "name": "Gullfaxi(30dias)"
-            }
-        ]
-    },
-    {
-        "id": 506,
-        "name": "Perzen Norma",
-        "droplist": [
-            {
-                "id": 4128,
-                "name": "Esfera da Sorte(N)"
-            },
-            {
-                "id": 3986,
-                "name": "Shire(30dias)"
-            }
-        ]
-    },
-    {
-        "id": 508,
-        "name": "Premium A",
-        "droplist": [
-            {
-                "id": 3900,
-                "name": "64"
-            },
-            {
-                "id": 3901,
-                "name": "Fada Azul(3dias)"
-            },
-            {
-                "id": 3902,
-                "name": "Fada Vermelha(3dias)"
-            },
-            {
-                "id": 3906,
-                "name": "Fada Verde(7dias)"
-            },
-            {
-                "id": 3907,
-                "name": "Fada Azul(7dias)"
-            },
-            {
-                "id": 3908,
-                "name": "Fada Vermelha(7dias)"
-            },
-            {
-                "id": 3915,
-                "name": "Fada Dourada"
-            },
-            {
-                "id": 3379,
-                "name": "Pocao Divina(7dias)"
-            },
-            {
-                "id": 3361,
-                "name": "Pocao Sephira (7dias)"
-            },
-            {
-                "id": 4128,
-                "name": "Esfera da Sorte(N)"
-            },
-            {
-                "id": 4130,
-                "name": "Esfera da Sorte(A)"
-            },
-            {
-                "id": 4129,
-                "name": "Esfera da Sorte(M)"
-            },
-            {
-                "id": 3314,
-                "name": "Frango Assado"
-            },
-            {
-                "id": 4144,
-                "name": "Bau de Experiencia"
-            },
-            {
-                "id": 3336,
-                "name": "Retorno da Habilidade"
-            },
-            {
-                "id": 3467,
-                "name": "Bolsa do Andarilho"
-            }
-        ]
-    },
-    {
-        "id": 450,
-        "name": "Krill",
-        "droplist": [
-            {
-                "id": 1123,
-                "name": "Armadura de Malha(M)"
-            },
-            {
-                "id": 1122,
-                "name": "Armadura de Malha(N)"
-            },
-            {
-                "id": 1121,
-                "name": "Cota de Couro Batido(A)"
-            }
-        ]
-    },
-    {
-        "id": 452,
-        "name": "Krill Gigant",
-        "droplist": []
-    },
-    {
-        "id": 454,
-        "name": "Lanceiro Zak",
-        "droplist": []
-    },
-    {
-        "id": 456,
-        "name": "Lich Crunt",
-        "droplist": []
-    },
-    {
-        "id": 458,
-        "name": "Lich Inferno",
-        "droplist": []
-    },
-    {
-        "id": 460,
-        "name": "Lindy",
-        "droplist": [
-            {
-                "id": 3196,
-                "name": "Heroi dos Aventureiros"
-            }
-        ]
-    },
-    {
-        "id": 462,
-        "name": "Lobo",
-        "droplist": [
-            {
-                "id": 4038,
-                "name": "Vela do Coveiro"
-            }
-        ]
-    },
-    {
-        "id": 464,
-        "name": "Lubien",
-        "droplist": [
-            {
-                "id": 1599,
-                "name": "Peitoral de Metal(N)"
-            },
-            {
-                "id": 1602,
-                "name": "Calca de Metal(N)"
-            },
-            {
-                "id": 1605,
-                "name": "Bracadeira de Metal(N)"
-            },
-            {
-                "id": 1608,
-                "name": "Botas de Metal(N)"
-            },
-            {
-                "id": 4017,
-                "name": "Classe B"
-            }
-        ]
-    },
-    {
-        "id": 466,
-        "name": "Lugefer",
-        "droplist": [
-            {
-                "id": 290,
-                "name": "Manto Negro Lendario"
-            },
-            {
-                "id": 1915,
-                "name": "Escudo Guardiao"
-            },
-            {
-                "id": 900,
-                "name": "0"
-            },
-            {
-                "id": 810,
-                "name": "Martelo Assassino"
-            },
-            {
-                "id": 870,
-                "name": "Espada Vorpal"
-            },
-            {
-                "id": 911,
-                "name": "Solaris"
-            },
-            {
-                "id": 2143,
-                "name": "Cruz Sagrada"
-            },
-            {
-                "id": 936,
-                "name": "Mjolnir"
-            },
-            {
-                "id": 855,
-                "name": "Lanca do Triunfo"
-            },
-            {
-                "id": 902,
-                "name": "Cajado de Âmbar"
-            },
-            {
-                "id": 2441,
-                "name": "Diamante"
-            },
-            {
-                "id": 2442,
-                "name": "Esmeralda"
-            }
-        ]
-    },
-    {
-        "id": 468,
-        "name": "Mago Amald",
-        "droplist": [
-            {
-                "id": 4015,
-                "name": "Capa de Berseker"
-            }
-        ]
-    },
-    {
-        "id": 470,
-        "name": "Mago Inf",
-        "droplist": [
-            {
-                "id": 4015,
-                "name": "Capa de Berseker"
-            }
-        ]
-    },
-    {
-        "id": 472,
-        "name": "Martin",
-        "droplist": [
-            {
-                "id": 3322,
-                "name": "[S]Caixa Pocao de Cura"
-            },
-            {
-                "id": 3323,
-                "name": "[S]Caixa Pocao de Mana"
-            },
-            {
-                "id": 415,
-                "name": "Ervas de Cura"
-            }
-        ]
-    },
-    {
-        "id": 474,
-        "name": "Meio Orc",
-        "droplist": [
-            {
-                "id": 4038,
-                "name": "Vela do Coveiro"
-            },
-            {
-                "id": 1135,
-                "name": "Calca de Malha(M)"
-            }
-        ]
-    },
-    {
-        "id": 476,
-        "name": "Mestre Elfo",
-        "droplist": [
-            {
-                "id": 738,
-                "name": "Capa Negra do Monstro"
-            }
-        ]
-    },
-    {
-        "id": 478,
-        "name": "Mestre Haby",
-        "droplist": []
-    },
-    {
-        "id": 480,
-        "name": "Morlock",
-        "droplist": [
-            {
-                "id": 2443,
-                "name": "Coral"
-            },
-            {
-                "id": 4019,
-                "name": "Classe D"
-            },
-            {
-                "id": 900,
-                "name": "0"
-            },
-            {
-                "id": 899,
-                "name": "Olho do Carbunkle"
-            },
-            {
-                "id": 902,
-                "name": "Cajado de Âmbar"
-            },
-            {
-                "id": 2137,
-                "name": "Gungnir"
-            },
-            {
-                "id": 4042,
-                "name": "Emblema do Guarda"
-            }
-        ]
-    },
-    {
-        "id": 482,
-        "name": "NainTroll",
-        "droplist": []
-    },
-    {
-        "id": 484,
-        "name": "Neptus",
-        "droplist": [
-            {
-                "id": 1272,
-                "name": "Robe Sombrio(N)"
-            },
-            {
-                "id": 1284,
-                "name": "Calca Sombria(N)"
-            },
-            {
-                "id": 1296,
-                "name": "Luvas Sombrias(N)"
-            },
-            {
-                "id": 1308,
-                "name": "Botas Sombrias(N)"
-            },
-            {
-                "id": 4017,
-                "name": "Classe B"
-            }
-        ]
-    },
-    {
-        "id": 486,
-        "name": "Orc Cavaleir",
-        "droplist": [
-            {
-                "id": 1135,
-                "name": "Calca de Malha(M)"
-            }
-        ]
-    },
-    {
-        "id": 488,
-        "name": "Orc Guerreir",
-        "droplist": [
-            {
-                "id": 1139,
-                "name": "Luvas de Couro(A)"
-            },
-            {
-                "id": 1135,
-                "name": "Calca de Malha(M)"
-            }
-        ]
-    },
-    {
-        "id": 490,
-        "name": "Orc L Troope",
-        "droplist": [
-            {
-                "id": 2363,
-                "name": "Dragao Menor"
-            }
-        ]
-    },
-    {
-        "id": 492,
-        "name": "Orc Shaman",
-        "droplist": [
-            {
-                "id": 4039,
-                "name": "Colheita do Jardineiro"
-            }
-        ]
-    },
-    {
-        "id": 494,
-        "name": "Orc Sniper",
-        "droplist": []
-    },
-    {
-        "id": 496,
-        "name": "Patrulha",
-        "droplist": []
-    },
-    {
-        "id": 498,
-        "name": "Patrulha  ",
-        "droplist": []
-    },
-    {
-        "id": 500,
+        "id": 1085,
         "name": "PerGargula",
         "droplist": [
             {
@@ -2950,7 +1725,57 @@
         ]
     },
     {
-        "id": 502,
+        "id": 1086,
+        "name": "PerHorizon",
+        "droplist": [
+            {
+                "id": 419,
+                "name": "Resto de Oriharucon"
+            },
+            {
+                "id": 420,
+                "name": "Resto de Lactolerium"
+            },
+            {
+                "id": 4026,
+                "name": "Moeda de Prata(1Mi)"
+            },
+            {
+                "id": 4019,
+                "name": "Classe D"
+            },
+            {
+                "id": 658,
+                "name": "Gema da Siren"
+            },
+            {
+                "id": 1492,
+                "name": "Elmo Elemental(M)"
+            },
+            {
+                "id": 1495,
+                "name": "Armadura Elemental(M)"
+            },
+            {
+                "id": 1498,
+                "name": "Calca Elemental(M)"
+            },
+            {
+                "id": 1501,
+                "name": "Manoplas Elementais(M)"
+            },
+            {
+                "id": 1504,
+                "name": "Botas Elementais(M)"
+            },
+            {
+                "id": 2402,
+                "name": "Âmago de Cav Fantasm B"
+            }
+        ]
+    },
+    {
+        "id": 1087,
         "name": "PerMorlock",
         "droplist": [
             {
@@ -3004,7 +1829,21 @@
         ]
     },
     {
-        "id": 504,
+        "id": 1088,
+        "name": "Perzen",
+        "droplist": [
+            {
+                "id": 4110,
+                "name": "Esfera da Sorte"
+            },
+            {
+                "id": 3989,
+                "name": "Gullfaxi(30dias)"
+            }
+        ]
+    },
+    {
+        "id": 1089,
         "name": "Perzen Arcan",
         "droplist": [
             {
@@ -3018,7 +1857,7 @@
         ]
     },
     {
-        "id": 505,
+        "id": 1090,
         "name": "Perzen Misti",
         "droplist": [
             {
@@ -3032,12 +1871,88 @@
         ]
     },
     {
-        "id": 507,
+        "id": 1091,
+        "name": "Perzen Norma",
+        "droplist": [
+            {
+                "id": 4128,
+                "name": "Esfera da Sorte(N)"
+            },
+            {
+                "id": 3986,
+                "name": "Shire(30dias)"
+            }
+        ]
+    },
+    {
+        "id": 1092,
         "name": "Porco",
         "droplist": []
     },
     {
-        "id": 509,
+        "id": 1093,
+        "name": "Premium A",
+        "droplist": [
+            {
+                "id": 3900,
+                "name": "64"
+            },
+            {
+                "id": 3901,
+                "name": "Fada Azul(3dias)"
+            },
+            {
+                "id": 3902,
+                "name": "Fada Vermelha(3dias)"
+            },
+            {
+                "id": 3915,
+                "name": "Fada Dourada"
+            },
+            {
+                "id": 3453,
+                "name": "Pocao Revigorante"
+            },
+            {
+                "id": 3379,
+                "name": "Pocao Divina(7dias)"
+            },
+            {
+                "id": 3361,
+                "name": "Pocao Sephira (7dias)"
+            },
+            {
+                "id": 4128,
+                "name": "Esfera da Sorte(N)"
+            },
+            {
+                "id": 4129,
+                "name": "Esfera da Sorte(M)"
+            },
+            {
+                "id": 4130,
+                "name": "Esfera da Sorte(A)"
+            },
+            {
+                "id": 3314,
+                "name": "Frango Assado"
+            },
+            {
+                "id": 4144,
+                "name": "Bau de Experiencia"
+            },
+            {
+                "id": 3336,
+                "name": "Retorno da Habilidade"
+            },
+            {
+                "id": 3467,
+                "name": "Bolsa do Andarilho"
+            }
+        ]
+    },
+    {
+        "id": 1094,
         "name": "Premium M",
         "droplist": [
             {
@@ -3083,7 +1998,133 @@
         ]
     },
     {
-        "id": 511,
+        "id": 1095,
+        "name": "Premium Moun",
+        "droplist": [
+            {
+                "id": 3344,
+                "name": "Catalisador de Kapel"
+            },
+            {
+                "id": 3345,
+                "name": "Catalisador de Acuban"
+            },
+            {
+                "id": 3346,
+                "name": "Catalisador de Mencar"
+            },
+            {
+                "id": 3347,
+                "name": "Catalisador de Birago"
+            },
+            {
+                "id": 3348,
+                "name": "Catalisador de Yus"
+            },
+            {
+                "id": 3351,
+                "name": "Restaurador de Kapel"
+            },
+            {
+                "id": 3352,
+                "name": "Restaurador de Acuban"
+            },
+            {
+                "id": 3353,
+                "name": "Restaurador de Mencar"
+            },
+            {
+                "id": 3354,
+                "name": "Restaurador de Birago"
+            },
+            {
+                "id": 3355,
+                "name": "Restaurador de Yus"
+            },
+            {
+                "id": 3438,
+                "name": "Acelerador de Nascimento"
+            }
+        ]
+    },
+    {
+        "id": 1096,
+        "name": "Premium N",
+        "droplist": [
+            {
+                "id": 3407,
+                "name": "Feijao Magico(Azul)"
+            },
+            {
+                "id": 3408,
+                "name": "Feijao Magico(Vermelho)"
+            },
+            {
+                "id": 3409,
+                "name": "Feijao Magico(Verde)"
+            },
+            {
+                "id": 3410,
+                "name": "Feijao Magico(Prateado)"
+            },
+            {
+                "id": 3411,
+                "name": "Feijao Magico(Preto)"
+            },
+            {
+                "id": 3412,
+                "name": "Feijao Magico(Roxo)"
+            },
+            {
+                "id": 3413,
+                "name": "Feijao Magico(Marrom)"
+            },
+            {
+                "id": 3414,
+                "name": "Feijao Magico(Rosa)"
+            },
+            {
+                "id": 3415,
+                "name": "Feijao Magico(Amarelo)"
+            },
+            {
+                "id": 3416,
+                "name": "Feijao Magico(Azul Claro)"
+            },
+            {
+                "id": 3417,
+                "name": "Removedor de tintura"
+            }
+        ]
+    },
+    {
+        "id": 1097,
+        "name": "Rainy",
+        "droplist": [
+            {
+                "id": 1569,
+                "name": "Peitoral de Ferro(N)"
+            },
+            {
+                "id": 1572,
+                "name": "Calca de Ferro(N)"
+            },
+            {
+                "id": 1575,
+                "name": "Bracadeira de Ferro(N)"
+            },
+            {
+                "id": 1578,
+                "name": "Botas de Ferro(N)"
+            },
+            {
+                "id": 4016,
+                "name": "Classe A"
+            }
+        ]
+    },
+    {
+        "id": 1098,
         "name": "Ranger Amald",
         "droplist": [
             {
@@ -3093,7 +2134,7 @@
         ]
     },
     {
-        "id": 513,
+        "id": 1099,
         "name": "Ranger Inf",
         "droplist": [
             {
@@ -3103,7 +2144,33 @@
         ]
     },
     {
-        "id": 515,
+        "id": 1100,
+        "name": "Rapein",
+        "droplist": [
+            {
+                "id": 1266,
+                "name": "Robe de Seda(N)"
+            },
+            {
+                "id": 1278,
+                "name": "Saia de Seda(N)"
+            },
+            {
+                "id": 1290,
+                "name": "Luvas de Seda(N)"
+            },
+            {
+                "id": 1302,
+                "name": "Botas de Seda(N)"
+            },
+            {
+                "id": 4016,
+                "name": "Classe A"
+            }
+        ]
+    },
+    {
+        "id": 1101,
         "name": "Redmiron",
         "droplist": [
             {
@@ -3145,7 +2212,29 @@
         ]
     },
     {
-        "id": 517,
+        "id": 1102,
+        "name": "Reimers",
+        "droplist": [
+            {
+                "id": 1449,
+                "name": "Armadura de Aguia(N)"
+            },
+            {
+                "id": 1452,
+                "name": "Calca de Aguia(N)"
+            },
+            {
+                "id": 1455,
+                "name": "Luvas de Aguia(N)"
+            },
+            {
+                "id": 1458,
+                "name": "Botas de Aguia(N)"
+            }
+        ]
+    },
+    {
+        "id": 1103,
         "name": "Reiners",
         "droplist": [
             {
@@ -3203,146 +2292,12 @@
         ]
     },
     {
-        "id": 520,
-        "name": "Rei Gremlin",
-        "droplist": [
-            {
-                "id": 4038,
-                "name": "Vela do Coveiro"
-            }
-        ]
-    },
-    {
-        "id": 510,
-        "name": "Premium N",
-        "droplist": [
-            {
-                "id": 3407,
-                "name": "Feijao Magico(Azul)"
-            },
-            {
-                "id": 3408,
-                "name": "Feijao Magico(Vermelho)"
-            },
-            {
-                "id": 3409,
-                "name": "Feijao Magico(Verde)"
-            },
-            {
-                "id": 3410,
-                "name": "Feijao Magico(Prateado)"
-            },
-            {
-                "id": 3411,
-                "name": "Feijao Magico(Preto)"
-            },
-            {
-                "id": 3412,
-                "name": "Feijao Magico(Roxo)"
-            },
-            {
-                "id": 3413,
-                "name": "Feijao Magico(Marrom)"
-            },
-            {
-                "id": 3414,
-                "name": "Feijao Magico(Rosa)"
-            },
-            {
-                "id": 3415,
-                "name": "Feijao Magico(Amarelo)"
-            },
-            {
-                "id": 3416,
-                "name": "Feijao Magico(Azul Claro)"
-            },
-            {
-                "id": 3417,
-                "name": "Removedor de tintura"
-            }
-        ]
-    },
-    {
-        "id": 512,
-        "name": "Rainy",
-        "droplist": [
-            {
-                "id": 1569,
-                "name": "Peitoral de Ferro(N)"
-            },
-            {
-                "id": 1572,
-                "name": "Calca de Ferro(N)"
-            },
-            {
-                "id": 1575,
-                "name": "Bracadeira de Ferro(N)"
-            },
-            {
-                "id": 1578,
-                "name": "Botas de Ferro(N)"
-            },
-            {
-                "id": 4016,
-                "name": "Classe A"
-            }
-        ]
-    },
-    {
-        "id": 514,
-        "name": "Rapein",
-        "droplist": [
-            {
-                "id": 1266,
-                "name": "Robe de Seda(N)"
-            },
-            {
-                "id": 1278,
-                "name": "Saia de Seda(N)"
-            },
-            {
-                "id": 1290,
-                "name": "Luvas de Seda(N)"
-            },
-            {
-                "id": 1302,
-                "name": "Botas de Seda(N)"
-            },
-            {
-                "id": 4016,
-                "name": "Classe A"
-            }
-        ]
-    },
-    {
-        "id": 516,
-        "name": "Reimers",
-        "droplist": [
-            {
-                "id": 1449,
-                "name": "Armadura de Aguia(N)"
-            },
-            {
-                "id": 1452,
-                "name": "Calca de Aguia(N)"
-            },
-            {
-                "id": 1455,
-                "name": "Luvas de Aguia(N)"
-            },
-            {
-                "id": 1458,
-                "name": "Botas de Aguia(N)"
-            }
-        ]
-    },
-    {
-        "id": 518,
+        "id": 1104,
         "name": "Rei Carbuncl",
         "droplist": []
     },
     {
-        "id": 519,
+        "id": 1105,
         "name": "Rei Glantuar",
         "droplist": [
             {
@@ -3356,304 +2311,36 @@
         ]
     },
     {
-        "id": 522,
+        "id": 1106,
+        "name": "Rei Gremlin",
+        "droplist": [
+            {
+                "id": 4038,
+                "name": "Vela do Coveiro"
+            }
+        ]
+    },
+    {
+        "id": 1107,
+        "name": "Rei Harabard",
+        "droplist": [
+            {
+                "id": 2375,
+                "name": "Andaluz B"
+            },
+            {
+                "id": 3191,
+                "name": "Elite de Hekalotia"
+            }
+        ]
+    },
+    {
+        "id": 1108,
         "name": "Rei Taurus",
         "droplist": []
     },
     {
-        "id": 524,
-        "name": "Rophelion",
-        "droplist": [
-            {
-                "id": 1122,
-                "name": "Armadura de Malha(N)"
-            },
-            {
-                "id": 1134,
-                "name": "Calca de Malha(N)"
-            },
-            {
-                "id": 1146,
-                "name": "Manoplas de Malha(N)"
-            },
-            {
-                "id": 1158,
-                "name": "Botas de Malha(N)"
-            },
-            {
-                "id": 4017,
-                "name": "Classe B"
-            }
-        ]
-    },
-    {
-        "id": 526,
-        "name": "SacerdoteJes",
-        "droplist": [
-            {
-                "id": 786,
-                "name": "Item de 2x HP(Montro)"
-            }
-        ]
-    },
-    {
-        "id": 528,
-        "name": "Seguidor",
-        "droplist": []
-    },
-    {
-        "id": 530,
-        "name": "Serpent Giga",
-        "droplist": [
-            {
-                "id": 4040,
-                "name": "Cura do Batedor"
-            }
-        ]
-    },
-    {
-        "id": 532,
-        "name": "Servo Elfo",
-        "droplist": [
-            {
-                "id": 738,
-                "name": "Capa Negra do Monstro"
-            },
-            {
-                "id": 4121,
-                "name": "Pedra Espiritual dos Elfos"
-            }
-        ]
-    },
-    {
-        "id": 534,
-        "name": "Shaman Inf",
-        "droplist": [
-            {
-                "id": 4015,
-                "name": "Capa de Berseker"
-            }
-        ]
-    },
-    {
-        "id": 536,
-        "name": "Shany",
-        "droplist": [
-            {
-                "id": 3196,
-                "name": "Heroi dos Aventureiros"
-            }
-        ]
-    },
-    {
-        "id": 538,
-        "name": "Simio Bleg",
-        "droplist": []
-    },
-    {
-        "id": 540,
-        "name": "Simio Inf",
-        "droplist": []
-    },
-    {
-        "id": 542,
-        "name": "Soldado Amon",
-        "droplist": []
-    },
-    {
-        "id": 544,
-        "name": "Sulrang",
-        "droplist": []
-    },
-    {
-        "id": 546,
-        "name": "Tauron",
-        "droplist": [
-            {
-                "id": 419,
-                "name": "Resto de Oriharucon"
-            },
-            {
-                "id": 1206,
-                "name": "Elmo Embutido(N)"
-            },
-            {
-                "id": 1219,
-                "name": "Botas Embutidas(M)"
-            },
-            {
-                "id": 1209,
-                "name": "Armadura Embutida(N)"
-            },
-            {
-                "id": 1201,
-                "name": "Manopla Ana(M)"
-            },
-            {
-                "id": 1205,
-                "name": "Botas Ana(A)"
-            },
-            {
-                "id": 1354,
-                "name": "Botas de Mytril(M)"
-            },
-            {
-                "id": 13552,
-                "name": ""
-            }
-        ]
-    },
-    {
-        "id": 548,
-        "name": "Templario Am",
-        "droplist": [
-            {
-                "id": 4015,
-                "name": "Capa de Berseker"
-            }
-        ]
-    },
-    {
-        "id": 551,
-        "name": "Tita Berserk",
-        "droplist": []
-    },
-    {
-        "id": 553,
-        "name": "Torre Thor",
-        "droplist": []
-    },
-    {
-        "id": 555,
-        "name": "Treinador1",
-        "droplist": []
-    },
-    {
-        "id": 557,
-        "name": "Treinador3",
-        "droplist": []
-    },
-    {
-        "id": 559,
-        "name": "Troll Caos",
-        "droplist": []
-    },
-    {
-        "id": 561,
-        "name": "Troll Ghoul",
-        "droplist": [
-            {
-                "id": 809,
-                "name": "Martelo Dragao"
-            },
-            {
-                "id": 824,
-                "name": "Arco Elfico"
-            },
-            {
-                "id": 2442,
-                "name": "Esmeralda"
-            },
-            {
-                "id": 419,
-                "name": "Resto de Oriharucon"
-            },
-            {
-                "id": 420,
-                "name": "Resto de Lactolerium"
-            },
-            {
-                "id": 4019,
-                "name": "Classe D"
-            },
-            {
-                "id": 869,
-                "name": "Gram"
-            },
-            {
-                "id": 4041,
-                "name": "Mana do Batedor"
-            },
-            {
-                "id": 4042,
-                "name": "Emblema do Guarda"
-            }
-        ]
-    },
-    {
-        "id": 563,
-        "name": "Troll Mago",
-        "droplist": []
-    },
-    {
-        "id": 565,
-        "name": "Urnammu",
-        "droplist": [
-            {
-                "id": 3199,
-                "name": "Mestre dos Aventureiros"
-            }
-        ]
-    },
-    {
-        "id": 567,
-        "name": "Urso Zumbi",
-        "droplist": [
-            {
-                "id": 419,
-                "name": "Resto de Oriharucon"
-            },
-            {
-                "id": 697,
-                "name": "Safira"
-            }
-        ]
-    },
-    {
-        "id": 569,
-        "name": "Valquiria",
-        "droplist": []
-    },
-    {
-        "id": 571,
-        "name": "Valquiria Ti",
-        "droplist": []
-    },
-    {
-        "id": 573,
-        "name": "Vigia",
-        "droplist": []
-    },
-    {
-        "id": 575,
-        "name": "Xeno Cropper",
-        "droplist": [
-            {
-                "id": 786,
-                "name": "Item de 2x HP(Montro)"
-            }
-        ]
-    },
-    {
-        "id": 577,
-        "name": "Zakum Inf",
-        "droplist": [
-            {
-                "id": 786,
-                "name": "Item de 2x HP(Montro)"
-            },
-            {
-                "id": 2368,
-                "name": "Cavalo Leve N"
-            },
-            {
-                "id": 4015,
-                "name": "Capa de Berseker"
-            }
-        ]
-    },
-    {
-        "id": 523,
+        "id": 1109,
         "name": "Repus",
         "droplist": [
             {
@@ -3699,7 +2386,33 @@
         ]
     },
     {
-        "id": 525,
+        "id": 1110,
+        "name": "Rophelion",
+        "droplist": [
+            {
+                "id": 1122,
+                "name": "Armadura de Malha(N)"
+            },
+            {
+                "id": 1134,
+                "name": "Calca de Malha(N)"
+            },
+            {
+                "id": 1146,
+                "name": "Manoplas de Malha(N)"
+            },
+            {
+                "id": 1158,
+                "name": "Botas de Malha(N)"
+            },
+            {
+                "id": 4017,
+                "name": "Classe B"
+            }
+        ]
+    },
+    {
+        "id": 1111,
         "name": "Ruti",
         "droplist": [
             {
@@ -3741,12 +2454,27 @@
         ]
     },
     {
-        "id": 527,
+        "id": 1112,
+        "name": "SacerdoteJes",
+        "droplist": [
+            {
+                "id": 786,
+                "name": "Item de 2x HP(Montro)"
+            }
+        ]
+    },
+    {
+        "id": 1113,
         "name": "Sacerdote Kr",
         "droplist": []
     },
     {
-        "id": 529,
+        "id": 1114,
+        "name": "Seguidor",
+        "droplist": []
+    },
+    {
+        "id": 1115,
         "name": "Serpente",
         "droplist": [
             {
@@ -3756,22 +2484,51 @@
         ]
     },
     {
-        "id": 531,
-        "name": "Servo Carbun",
+        "id": 1116,
+        "name": "Serpent Giga",
         "droplist": [
             {
-                "id": 4118,
-                "name": "Lagrima Angelical"
+                "id": 4040,
+                "name": "Cura do Batedor"
             }
         ]
     },
     {
-        "id": 533,
+        "id": 1117,
+        "name": "Servo Carbun",
+        "droplist": []
+    },
+    {
+        "id": 1118,
+        "name": "Servo Elfo",
+        "droplist": [
+            {
+                "id": 738,
+                "name": "Capa Negra do Monstro"
+            },
+            {
+                "id": 4121,
+                "name": "Pedra Espiritual dos Elfos"
+            }
+        ]
+    },
+    {
+        "id": 1119,
         "name": "Shaman",
         "droplist": []
     },
     {
-        "id": 535,
+        "id": 1120,
+        "name": "Shaman Inf",
+        "droplist": [
+            {
+                "id": 4015,
+                "name": "Capa de Berseker"
+            }
+        ]
+    },
+    {
+        "id": 1121,
         "name": "Shama Amald",
         "droplist": [
             {
@@ -3781,22 +2538,47 @@
         ]
     },
     {
-        "id": 537,
+        "id": 1122,
         "name": "Simio",
         "droplist": []
     },
     {
-        "id": 539,
+        "id": 1123,
+        "name": "Shany",
+        "droplist": [
+            {
+                "id": 3196,
+                "name": "Heroi dos Aventureiros"
+            }
+        ]
+    },
+    {
+        "id": 1124,
         "name": "Simio Anciao",
         "droplist": []
     },
     {
-        "id": 541,
+        "id": 1125,
+        "name": "Simio Bleg",
+        "droplist": []
+    },
+    {
+        "id": 1126,
+        "name": "Simio Inf",
+        "droplist": []
+    },
+    {
+        "id": 1127,
         "name": "Sobrevivente",
         "droplist": []
     },
     {
-        "id": 543,
+        "id": 1128,
+        "name": "Soldado Amon",
+        "droplist": []
+    },
+    {
+        "id": 1129,
         "name": "Sombra Negra",
         "droplist": [
             {
@@ -3810,7 +2592,12 @@
         ]
     },
     {
-        "id": 545,
+        "id": 1130,
+        "name": "Sulrang",
+        "droplist": []
+    },
+    {
+        "id": 1131,
         "name": "Taron Assass",
         "droplist": [
             {
@@ -3848,7 +2635,45 @@
         ]
     },
     {
-        "id": 547,
+        "id": 1132,
+        "name": "Tauron",
+        "droplist": [
+            {
+                "id": 419,
+                "name": "Resto de Oriharucon"
+            },
+            {
+                "id": 1206,
+                "name": "Elmo Embutido(N)"
+            },
+            {
+                "id": 1219,
+                "name": "Botas Embutidas(M)"
+            },
+            {
+                "id": 1209,
+                "name": "Armadura Embutida(N)"
+            },
+            {
+                "id": 1201,
+                "name": "Manopla Ana(M)"
+            },
+            {
+                "id": 1205,
+                "name": "Botas Ana(A)"
+            },
+            {
+                "id": 1354,
+                "name": "Botas de Mytril(M)"
+            },
+            {
+                "id": 13552,
+                "name": ""
+            }
+        ]
+    },
+    {
+        "id": 1133,
         "name": "Taurus Malig",
         "droplist": [
             {
@@ -3858,7 +2683,17 @@
         ]
     },
     {
-        "id": 549,
+        "id": 1134,
+        "name": "Templario Am",
+        "droplist": [
+            {
+                "id": 4015,
+                "name": "Capa de Berseker"
+            }
+        ]
+    },
+    {
+        "id": 1135,
         "name": "Templario In",
         "droplist": [
             {
@@ -3868,17 +2703,27 @@
         ]
     },
     {
-        "id": 550,
+        "id": 1136,
+        "name": "Tita Berserk",
+        "droplist": []
+    },
+    {
+        "id": 1137,
         "name": "Tiny",
         "droplist": []
     },
     {
-        "id": 552,
+        "id": 1138,
         "name": "Torre Guardi",
         "droplist": []
     },
     {
-        "id": 554,
+        "id": 1139,
+        "name": "Torre Thor",
+        "droplist": []
+    },
+    {
+        "id": 1140,
         "name": "Treant",
         "droplist": [
             {
@@ -3896,27 +2741,85 @@
         ]
     },
     {
-        "id": 556,
+        "id": 1141,
+        "name": "Treinador1",
+        "droplist": []
+    },
+    {
+        "id": 1142,
         "name": "Treinador2",
         "droplist": []
     },
     {
-        "id": 558,
+        "id": 1143,
+        "name": "Treinador3",
+        "droplist": []
+    },
+    {
+        "id": 1144,
         "name": "Troll ",
         "droplist": []
     },
     {
-        "id": 560,
+        "id": 1145,
+        "name": "Troll Caos",
+        "droplist": []
+    },
+    {
+        "id": 1146,
         "name": "Troll de Gel",
         "droplist": []
     },
     {
-        "id": 562,
+        "id": 1147,
+        "name": "Troll Ghoul",
+        "droplist": [
+            {
+                "id": 809,
+                "name": "Martelo Dragao"
+            },
+            {
+                "id": 824,
+                "name": "Arco Elfico"
+            },
+            {
+                "id": 419,
+                "name": "Resto de Oriharucon"
+            },
+            {
+                "id": 420,
+                "name": "Resto de Lactolerium"
+            },
+            {
+                "id": 4019,
+                "name": "Classe D"
+            },
+            {
+                "id": 4041,
+                "name": "Mana do Batedor"
+            },
+            {
+                "id": 869,
+                "name": "Gram"
+            },
+            {
+                "id": 4042,
+                "name": "Emblema do Guarda"
+            }
+        ]
+    },
+    {
+        "id": 1148,
         "name": "Troll Insano",
         "droplist": []
     },
     {
-        "id": 564,
+        "id": 1149,
+        "name": "Troll Mago",
+        "droplist": []
+    },
+    {
+        "id": 1150,
         "name": "Troll Zumbi",
         "droplist": [
             {
@@ -3926,22 +2829,99 @@
         ]
     },
     {
-        "id": 566,
-        "name": "Urso Polar",
-        "droplist": []
+        "id": 1151,
+        "name": "Urnammu",
+        "droplist": [
+            {
+                "id": 3199,
+                "name": "Mestre dos Aventureiros"
+            }
+        ]
     },
     {
-        "id": 568,
+        "id": 1152,
+        "name": "Urso Polar",
+        "droplist": [
+            {
+                "id": 413,
+                "name": "Poeira de Lactolerium"
+            }
+        ]
+    },
+    {
+        "id": 1153,
+        "name": "Urso Zumbi",
+        "droplist": [
+            {
+                "id": 419,
+                "name": "Resto de Oriharucon"
+            }
+        ]
+    },
+    {
+        "id": 1154,
         "name": "Uxmal",
         "droplist": []
     },
     {
-        "id": 570,
-        "name": "Valquiria Ro",
+        "id": 1155,
+        "name": "Valquiria",
         "droplist": []
     },
     {
-        "id": 572,
+        "id": 1156,
+        "name": "Valquiria Ro",
+        "droplist": [
+            {
+                "id": 3561,
+                "name": "Dianus"
+            },
+            {
+                "id": 3566,
+                "name": "Foice Platinada"
+            },
+            {
+                "id": 3571,
+                "name": "Vingadora"
+            },
+            {
+                "id": 3551,
+                "name": "Asa Draconiana"
+            },
+            {
+                "id": 3556,
+                "name": "Arco Guardiao"
+            }
+        ]
+    },
+    {
+        "id": 1157,
+        "name": "Valquiria Ti",
+        "droplist": [
+            {
+                "id": 3591,
+                "name": "Eden"
+            },
+            {
+                "id": 3596,
+                "name": "Demolidor Celestial"
+            },
+            {
+                "id": 3576,
+                "name": "Karikas"
+            },
+            {
+                "id": 3581,
+                "name": "Forca Eterna"
+            },
+            {
+                "id": 3582,
+                "name": "Cajado Caotico"
+            }
+        ]
+    },
+    {
+        "id": 1158,
         "name": "Verme ",
         "droplist": [
             {
@@ -3959,12 +2939,27 @@
         ]
     },
     {
-        "id": 574,
+        "id": 1159,
+        "name": "Vigia",
+        "droplist": []
+    },
+    {
+        "id": 1160,
         "name": "WriggleSwarm",
         "droplist": []
     },
     {
-        "id": 576,
+        "id": 1161,
+        "name": "Xeno Cropper",
+        "droplist": [
+            {
+                "id": 786,
+                "name": "Item de 2x HP(Montro)"
+            }
+        ]
+    },
+    {
+        "id": 1162,
         "name": "Zakum",
         "droplist": [
             {
@@ -4002,8 +2997,1178 @@
         ]
     },
     {
-        "id": 578,
+        "id": 1163,
+        "name": "Zakum Inf",
+        "droplist": [
+            {
+                "id": 786,
+                "name": "Item de 2x HP(Montro)"
+            },
+            {
+                "id": 2368,
+                "name": "Cavalo Leve N"
+            },
+            {
+                "id": 4015,
+                "name": "Capa de Berseker"
+            }
+        ]
+    },
+    {
+        "id": 1164,
         "name": "Zakum Lord",
         "droplist": []
+    },
+    {
+        "id": 874,
+        "name": "@Caveira Lan",
+        "droplist": []
+    },
+    {
+        "id": 875,
+        "name": "@Caveira Neg",
+        "droplist": []
+    },
+    {
+        "id": 876,
+        "name": "@Minotauro",
+        "droplist": []
+    },
+    {
+        "id": 877,
+        "name": "@Meio Orc",
+        "droplist": []
+    },
+    {
+        "id": 878,
+        "name": "Adamant Taur",
+        "droplist": [
+            {
+                "id": 2378,
+                "name": "Fenrir das Sombras"
+            },
+            {
+                "id": 936,
+                "name": "Mjolnir"
+            },
+            {
+                "id": 885,
+                "name": "Cruz Sagrada"
+            },
+            {
+                "id": 2443,
+                "name": "Coral"
+            },
+            {
+                "id": 900,
+                "name": "0"
+            },
+            {
+                "id": 1661,
+                "name": "Armadura Legionaria"
+            },
+            {
+                "id": 902,
+                "name": "Cajado de Âmbar"
+            },
+            {
+                "id": 1225,
+                "name": "Elmo Mortal"
+            },
+            {
+                "id": 1226,
+                "name": "Armadura Mortal"
+            },
+            {
+                "id": 1660,
+                "name": "Elmo Legionario"
+            },
+            {
+                "id": 1511,
+                "name": "Armadura do Corvo"
+            },
+            {
+                "id": 1510,
+                "name": "Elmo do Corvo"
+            }
+        ]
+    },
+    {
+        "id": 879,
+        "name": "@Troll Caos",
+        "droplist": []
+    },
+    {
+        "id": 880,
+        "name": "Aguia",
+        "droplist": []
+    },
+    {
+        "id": 881,
+        "name": "Aki",
+        "droplist": [
+            {
+                "id": 3322,
+                "name": "[S]Caixa Pocao de Cura"
+            },
+            {
+                "id": 3323,
+                "name": "[S]Caixa Pocao de Mana"
+            },
+            {
+                "id": 429,
+                "name": "Kit de Cura (10 M.)"
+            },
+            {
+                "id": 433,
+                "name": "Kit de Mana (10 M.)"
+            },
+            {
+                "id": 699,
+                "name": "Pergaminho do Teleporte"
+            },
+            {
+                "id": 410,
+                "name": "Pergaminho Retorno"
+            },
+            {
+                "id": 776,
+                "name": "Pergaminho de Portal(10)"
+            },
+            {
+                "id": 411,
+                "name": "Pergaminho Retorno 10x"
+            },
+            {
+                "id": 4111,
+                "name": "Entrada do Territorio(N)"
+            },
+            {
+                "id": 1728,
+                "name": "Fogos de Artificio"
+            },
+            {
+                "id": 4038,
+                "name": "Vela do Coveiro"
+            },
+            {
+                "id": 4039,
+                "name": "Colheita do Jardineiro"
+            },
+            {
+                "id": 4040,
+                "name": "Cura do Batedor"
+            }
+        ]
+    },
+    {
+        "id": 882,
+        "name": "Aeon Tauron",
+        "droplist": [
+            {
+                "id": 825,
+                "name": "Arco Divino"
+            },
+            {
+                "id": 855,
+                "name": "Lanca do Triunfo"
+            },
+            {
+                "id": 911,
+                "name": "Solaris"
+            },
+            {
+                "id": 1514,
+                "name": "Botas do Corvo"
+            },
+            {
+                "id": 1662,
+                "name": "Calca Legionaria"
+            },
+            {
+                "id": 1512,
+                "name": "Calca do Corvo"
+            },
+            {
+                "id": 1710,
+                "name": "Escudo de Runas"
+            },
+            {
+                "id": 1664,
+                "name": "Botas Legionarias"
+            },
+            {
+                "id": 1362,
+                "name": "Calca Templaria"
+            },
+            {
+                "id": 1364,
+                "name": "Botas Templarias"
+            }
+        ]
+    },
+    {
+        "id": 883,
+        "name": "Alchemy Anni",
+        "droplist": []
+    },
+    {
+        "id": 884,
+        "name": "Alquimista O",
+        "droplist": [
+            {
+                "id": 3196,
+                "name": "Heroi dos Aventureiros"
+            }
+        ]
+    },
+    {
+        "id": 885,
+        "name": "Anciao Ciclo",
+        "droplist": [
+            {
+                "id": 854,
+                "name": "Gungnir"
+            },
+            {
+                "id": 732,
+                "name": "Olho do Carbunkle"
+            },
+            {
+                "id": 419,
+                "name": "Resto de Oriharucon"
+            },
+            {
+                "id": 420,
+                "name": "Resto de Lactolerium"
+            }
+        ]
+    },
+    {
+        "id": 886,
+        "name": "Anf Ninja",
+        "droplist": []
+    },
+    {
+        "id": 887,
+        "name": "Agatha",
+        "droplist": []
+    },
+    {
+        "id": 888,
+        "name": "Anf Assassin",
+        "droplist": []
+    },
+    {
+        "id": 889,
+        "name": "Angela",
+        "droplist": []
+    },
+    {
+        "id": 890,
+        "name": "Aparicao",
+        "droplist": [
+            {
+                "id": 738,
+                "name": "Capa Negra do Monstro"
+            }
+        ]
+    },
+    {
+        "id": 891,
+        "name": "Aranha Doura",
+        "droplist": []
+    },
+    {
+        "id": 892,
+        "name": "Aqua Golem",
+        "droplist": [
+            {
+                "id": 4042,
+                "name": "Emblema do Guarda"
+            },
+            {
+                "id": 854,
+                "name": "Gungnir"
+            },
+            {
+                "id": 732,
+                "name": "Olho do Carbunkle"
+            },
+            {
+                "id": 824,
+                "name": "Arco Elfico"
+            },
+            {
+                "id": 1208,
+                "name": "Elmo Embutido(A)"
+            },
+            {
+                "id": 1641,
+                "name": "Chapeu de Teia(N)"
+            },
+            {
+                "id": 869,
+                "name": "Gram"
+            },
+            {
+                "id": 1211,
+                "name": "Armadura Embutida(A)"
+            },
+            {
+                "id": 1644,
+                "name": "Peitoral de Teia(N)"
+            },
+            {
+                "id": 1219,
+                "name": "Botas Embutidas(M)"
+            },
+            {
+                "id": 1651,
+                "name": "Bracadeira de Teia(M)"
+            },
+            {
+                "id": 1654,
+                "name": "Botas de Teia(M)"
+            },
+            {
+                "id": 1192,
+                "name": "Elmo Anao(M)"
+            }
+        ]
+    },
+    {
+        "id": 893,
+        "name": "Aranha Infer",
+        "droplist": []
+    },
+    {
+        "id": 894,
+        "name": "Aranha Rubra",
+        "droplist": []
+    },
+    {
+        "id": 895,
+        "name": "Arc Orc Troo",
+        "droplist": [
+            {
+                "id": 2361,
+                "name": "Javali"
+            }
+        ]
+    },
+    {
+        "id": 896,
+        "name": "Argos",
+        "droplist": [
+            {
+                "id": 4041,
+                "name": "Mana do Batedor"
+            },
+            {
+                "id": 884,
+                "name": "Lanca Relampago"
+            },
+            {
+                "id": 420,
+                "name": "Resto de Lactolerium"
+            },
+            {
+                "id": 419,
+                "name": "Resto de Oriharucon"
+            },
+            {
+                "id": 854,
+                "name": "Gungnir"
+            },
+            {
+                "id": 4042,
+                "name": "Emblema do Guarda"
+            },
+            {
+                "id": 2443,
+                "name": "Coral"
+            }
+        ]
+    },
+    {
+        "id": 897,
+        "name": "Argos Errant",
+        "droplist": [
+            {
+                "id": 4041,
+                "name": "Mana do Batedor"
+            },
+            {
+                "id": 884,
+                "name": "Lanca Relampago"
+            },
+            {
+                "id": 4042,
+                "name": "Emblema do Guarda"
+            },
+            {
+                "id": 419,
+                "name": "Resto de Oriharucon"
+            },
+            {
+                "id": 854,
+                "name": "Gungnir"
+            }
+        ]
+    },
+    {
+        "id": 947,
+        "name": "Compositor",
+        "droplist": []
+    },
+    {
+        "id": 948,
+        "name": "Conj Caveira",
+        "droplist": []
+    },
+    {
+        "id": 898,
+        "name": "Arnod",
+        "droplist": [
+            {
+                "id": 1419,
+                "name": "Armadura Lupina(N)"
+            },
+            {
+                "id": 1422,
+                "name": "Calca Lupina(N)"
+            },
+            {
+                "id": 1425,
+                "name": "Luvas Lupinas(N)"
+            },
+            {
+                "id": 1428,
+                "name": "Botas Lupinas(N)"
+            },
+            {
+                "id": 4016,
+                "name": "Classe A"
+            }
+        ]
+    },
+    {
+        "id": 899,
+        "name": "Arnold",
+        "droplist": [
+            {
+                "id": 835,
+                "name": "Faca Quimerica"
+            },
+            {
+                "id": 880,
+                "name": "Tomahawk"
+            },
+            {
+                "id": 865,
+                "name": "Cimitarra"
+            },
+            {
+                "id": 805,
+                "name": "Kraika"
+            },
+            {
+                "id": 820,
+                "name": "Arco da Confusao"
+            },
+            {
+                "id": 3170,
+                "name": "Notif. Publica(Elixir)"
+            },
+            {
+                "id": 850,
+                "name": "Lanca Escorpiao"
+            },
+            {
+                "id": 895,
+                "name": "Cajado Silencioso"
+            },
+            {
+                "id": 1705,
+                "name": "Escudo de Prata"
+            }
+        ]
+    },
+    {
+        "id": 900,
+        "name": "Arqueiro Elf",
+        "droplist": [
+            {
+                "id": 4015,
+                "name": "Capa de Berseker"
+            }
+        ]
+    },
+    {
+        "id": 901,
+        "name": "Arqueiro Tau",
+        "droplist": [
+            {
+                "id": 615,
+                "name": "Defesa contra Sagrado"
+            },
+            {
+                "id": 614,
+                "name": "Defesa contra Relampago"
+            },
+            {
+                "id": 612,
+                "name": "Defesa contra Fogo"
+            },
+            {
+                "id": 825,
+                "name": "Arco Divino"
+            }
+        ]
+    },
+    {
+        "id": 902,
+        "name": "Arq Caveira",
+        "droplist": [
+            {
+                "id": 4040,
+                "name": "Cura do Batedor"
+            }
+        ]
+    },
+    {
+        "id": 903,
+        "name": "Aylin",
+        "droplist": []
+    },
+    {
+        "id": 904,
+        "name": "Balmus",
+        "droplist": []
+    },
+    {
+        "id": 905,
+        "name": "Balrog",
+        "droplist": []
+    },
+    {
+        "id": 906,
+        "name": "Bardes",
+        "droplist": [
+            {
+                "id": 1937,
+                "name": "20x HP Item(Monstro)"
+            },
+            {
+                "id": 3322,
+                "name": "[S]Caixa Pocao de Cura"
+            },
+            {
+                "id": 3323,
+                "name": "[S]Caixa Pocao de Mana"
+            },
+            {
+                "id": 410,
+                "name": "Pergaminho Retorno"
+            },
+            {
+                "id": 411,
+                "name": "Pergaminho Retorno 10x"
+            },
+            {
+                "id": 699,
+                "name": "Pergaminho do Teleporte"
+            },
+            {
+                "id": 776,
+                "name": "Pergaminho de Portal(10)"
+            },
+            {
+                "id": 700,
+                "name": "16"
+            },
+            {
+                "id": 697,
+                "name": "Safira"
+            }
+        ]
+    },
+    {
+        "id": 907,
+        "name": "Basilisco If",
+        "droplist": []
+    },
+    {
+        "id": 908,
+        "name": "Basilisco",
+        "droplist": []
+    },
+    {
+        "id": 909,
+        "name": "Batorero",
+        "droplist": []
+    },
+    {
+        "id": 910,
+        "name": "Berlund",
+        "droplist": []
+    },
+    {
+        "id": 911,
+        "name": "Batorero Inf",
+        "droplist": []
+    },
+    {
+        "id": 912,
+        "name": "Berserker Re",
+        "droplist": [
+            {
+                "id": 3576,
+                "name": "Karikas"
+            },
+            {
+                "id": 3582,
+                "name": "Cajado Caotico"
+            },
+            {
+                "id": 3591,
+                "name": "Eden"
+            },
+            {
+                "id": 3596,
+                "name": "Demolidor Celestial"
+            },
+            {
+                "id": 3581,
+                "name": "Forca Eterna"
+            }
+        ]
+    },
+    {
+        "id": 913,
+        "name": "BlackOracle",
+        "droplist": []
+    },
+    {
+        "id": 914,
+        "name": "Bruce",
+        "droplist": []
+    },
+    {
+        "id": 915,
+        "name": "Bruxa Elfica",
+        "droplist": []
+    },
+    {
+        "id": 916,
+        "name": "C. de Montar",
+        "droplist": [
+            {
+                "id": 2420,
+                "name": "Racao de Porco"
+            },
+            {
+                "id": 2421,
+                "name": "Racao de Javali"
+            },
+            {
+                "id": 2422,
+                "name": "Racao de Lobo"
+            },
+            {
+                "id": 2423,
+                "name": "Racao de Dragao Menor"
+            },
+            {
+                "id": 2424,
+                "name": "Racao de Urso"
+            },
+            {
+                "id": 2425,
+                "name": "Racao de Dente de Sabre"
+            },
+            {
+                "id": 2426,
+                "name": "Racao de Cavalo"
+            },
+            {
+                "id": 2436,
+                "name": "Racao de Fenrir"
+            },
+            {
+                "id": 2429,
+                "name": "Racao de Unicornio"
+            }
+        ]
+    },
+    {
+        "id": 917,
+        "name": "Cacador Trol",
+        "droplist": []
+    },
+    {
+        "id": 918,
+        "name": "Cap.Cavaleir",
+        "droplist": [
+            {
+                "id": 5000,
+                "name": "0"
+            },
+            {
+                "id": 5001,
+                "name": "Toque Sagrado"
+            },
+            {
+                "id": 5002,
+                "name": "Golpe Duplo"
+            },
+            {
+                "id": 5003,
+                "name": "Samaritano"
+            },
+            {
+                "id": 5004,
+                "name": "Fanatismo"
+            },
+            {
+                "id": 5005,
+                "name": "Aura da Vida"
+            },
+            {
+                "id": 5006,
+                "name": "Furia Divina"
+            },
+            {
+                "id": 5007,
+                "name": "Destino"
+            },
+            {
+                "id": 5008,
+                "name": "Carga"
+            },
+            {
+                "id": 5009,
+                "name": "Mestre das Armas"
+            },
+            {
+                "id": 5010,
+                "name": "Golpe Mortal"
+            },
+            {
+                "id": 5011,
+                "name": "Assalto"
+            },
+            {
+                "id": 5012,
+                "name": "Espada da Fenix"
+            },
+            {
+                "id": 5013,
+                "name": "Possuido"
+            },
+            {
+                "id": 5014,
+                "name": "Nocao de Combate"
+            },
+            {
+                "id": 5015,
+                "name": "Armadura Critica"
+            },
+            {
+                "id": 5016,
+                "name": "Perseguicao"
+            },
+            {
+                "id": 5017,
+                "name": "Espada Flamejante"
+            }
+        ]
+    },
+    {
+        "id": 919,
+        "name": "Cap.Explor.",
+        "droplist": []
+    },
+    {
+        "id": 920,
+        "name": "Capitao Amon",
+        "droplist": []
+    },
+    {
+        "id": 921,
+        "name": "Cap.Mercenar",
+        "droplist": []
+    },
+    {
+        "id": 922,
+        "name": "Carbuncle Ou",
+        "droplist": []
+    },
+    {
+        "id": 923,
+        "name": "Ajudante",
+        "droplist": []
+    },
+    {
+        "id": 924,
+        "name": "Carbunkle",
+        "droplist": [
+            {
+                "id": 4039,
+                "name": "Colheita do Jardineiro"
+            },
+            {
+                "id": 1315,
+                "name": "Tunica de Concha(M)"
+            }
+        ]
+    },
+    {
+        "id": 925,
+        "name": "Cav.Caveira",
+        "droplist": [
+            {
+                "id": 4041,
+                "name": "Mana do Batedor"
+            },
+            {
+                "id": 4040,
+                "name": "Cura do Batedor"
+            },
+            {
+                "id": 1200,
+                "name": "192"
+            },
+            {
+                "id": 1199,
+                "name": "Calca Ana(A)"
+            },
+            {
+                "id": 1203,
+                "name": "Botas Ana(N)"
+            },
+            {
+                "id": 1195,
+                "name": "Armadura Ana(M)"
+            },
+            {
+                "id": 1193,
+                "name": "Elmo Anao(A)"
+            },
+            {
+                "id": 1639,
+                "name": "Botas da Natureza(M)"
+            },
+            {
+                "id": 1637,
+                "name": "Luvas da Natureza(A)"
+            },
+            {
+                "id": 1634,
+                "name": "Calca da Natureza(A)"
+            },
+            {
+                "id": 1631,
+                "name": "Peitoral da Natureza(A)"
+            },
+            {
+                "id": 1628,
+                "name": "Chapeu da Natureza(A)"
+            }
+        ]
+    },
+    {
+        "id": 926,
+        "name": "Cav. Elfo Ne",
+        "droplist": [
+            {
+                "id": 738,
+                "name": "Capa Negra do Monstro"
+            },
+            {
+                "id": 4042,
+                "name": "Emblema do Guarda"
+            }
+        ]
+    },
+    {
+        "id": 927,
+        "name": "Cav. Mortal",
+        "droplist": []
+    },
+    {
+        "id": 928,
+        "name": "Cav. Kaizen",
+        "droplist": [
+            {
+                "id": 738,
+                "name": "Capa Negra do Monstro"
+            }
+        ]
+    },
+    {
+        "id": 929,
+        "name": "Cav. Servo",
+        "droplist": []
+    },
+    {
+        "id": 930,
+        "name": "Cav. Mortal ",
+        "droplist": [
+            {
+                "id": 4081,
+                "name": "Emblema do Reino"
+            }
+        ]
+    },
+    {
+        "id": 931,
+        "name": "Cav. Lugefer",
+        "droplist": [
+            {
+                "id": 2370,
+                "name": "Andaluz N"
+            },
+            {
+                "id": 290,
+                "name": "Manto Negro Lendario"
+            }
+        ]
+    },
+    {
+        "id": 932,
+        "name": "Cavaleiro Ne",
+        "droplist": []
+    },
+    {
+        "id": 933,
+        "name": "Caveira",
+        "droplist": []
+    },
+    {
+        "id": 934,
+        "name": "Caveira Lanc",
+        "droplist": [
+            {
+                "id": 4040,
+                "name": "Cura do Batedor"
+            }
+        ]
+    },
+    {
+        "id": 935,
+        "name": "Chefe Amon I",
+        "droplist": []
+    },
+    {
+        "id": 936,
+        "name": "Chefe de Tre",
+        "droplist": []
+    },
+    {
+        "id": 937,
+        "name": "Chefe Ghoul",
+        "droplist": [
+            {
+                "id": 1319,
+                "name": "Calca de Concha(A)"
+            },
+            {
+                "id": 1329,
+                "name": "Tunica Conjuradora(N)"
+            },
+            {
+                "id": 1321,
+                "name": "Luvas de Concha(M)"
+            },
+            {
+                "id": 1327,
+                "name": "Chapeu Conjurador(M)"
+            }
+        ]
+    },
+    {
+        "id": 938,
+        "name": "Chefe Krill",
+        "droplist": [
+            {
+                "id": 4038,
+                "name": "Vela do Coveiro"
+            }
+        ]
+    },
+    {
+        "id": 939,
+        "name": "Chefe Orc",
+        "droplist": []
+    },
+    {
+        "id": 940,
+        "name": "Chefe Taurus",
+        "droplist": [
+            {
+                "id": 4080,
+                "name": "Emblema da Aprendizagem"
+            }
+        ]
+    },
+    {
+        "id": 941,
+        "name": "Chefe Treina",
+        "droplist": [
+            {
+                "id": 4006,
+                "name": "Manto do Aprendiz"
+            }
+        ]
+    },
+    {
+        "id": 942,
+        "name": "CH Troll Gho",
+        "droplist": [
+            {
+                "id": 738,
+                "name": "Capa Negra do Monstro"
+            }
+        ]
+    },
+    {
+        "id": 943,
+        "name": "Ciclope Arq",
+        "droplist": [
+            {
+                "id": 824,
+                "name": "Arco Elfico"
+            },
+            {
+                "id": 419,
+                "name": "Resto de Oriharucon"
+            },
+            {
+                "id": 899,
+                "name": "Olho do Carbunkle"
+            },
+            {
+                "id": 420,
+                "name": "Resto de Lactolerium"
+            }
+        ]
+    },
+    {
+        "id": 944,
+        "name": "Ciclope",
+        "droplist": [
+            {
+                "id": 4039,
+                "name": "Colheita do Jardineiro"
+            }
+        ]
+    },
+    {
+        "id": 945,
+        "name": "Ciclope Crue",
+        "droplist": [
+            {
+                "id": 854,
+                "name": "Gungnir"
+            },
+            {
+                "id": 824,
+                "name": "Arco Elfico"
+            },
+            {
+                "id": 419,
+                "name": "Resto de Oriharucon"
+            },
+            {
+                "id": 420,
+                "name": "Resto de Lactolerium"
+            }
+        ]
+    },
+    {
+        "id": 946,
+        "name": "Ciclope Sang",
+        "droplist": []
+    },
+    {
+        "id": 949,
+        "name": "Coveiro",
+        "droplist": []
+    },
+    {
+        "id": 950,
+        "name": "Creta",
+        "droplist": []
+    },
+    {
+        "id": 951,
+        "name": "Dedekinto",
+        "droplist": []
+    },
+    {
+        "id": 952,
+        "name": "Demon Lord",
+        "droplist": []
+    },
+    {
+        "id": 953,
+        "name": "Demon Gorgon",
+        "droplist": [
+            {
+                "id": 133,
+                "name": "Armadura de Archie"
+            },
+            {
+                "id": 738,
+                "name": "Capa Negra do Monstro"
+            }
+        ]
+    },
+    {
+        "id": 954,
+        "name": "Diretor Trei",
+        "droplist": [
+            {
+                "id": 4006,
+                "name": "Manto do Aprendiz"
+            }
+        ]
+    },
+    {
+        "id": 955,
+        "name": "Dracorich",
+        "droplist": []
+    },
+    {
+        "id": 956,
+        "name": "Draco Lich",
+        "droplist": []
+    },
+    {
+        "id": 957,
+        "name": "Dragao de Az",
+        "droplist": []
+    },
+    {
+        "id": 958,
+        "name": "Dragao de Co",
+        "droplist": []
+    },
+    {
+        "id": 959,
+        "name": "Dragao Doura",
+        "droplist": []
+    },
+    {
+        "id": 960,
+        "name": "Dragao Menor",
+        "droplist": [
+            {
+                "id": 1112,
+                "name": "Elmo de Malha(A)"
+            }
+        ]
     }
 ]
